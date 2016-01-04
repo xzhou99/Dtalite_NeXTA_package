@@ -1,4 +1,4 @@
-# dtalite_software_release
+# dtalite_software_introduction
 DTALite-NEXTA Software Release
 Network EXplorer for Traffic Analysis (NEXTA) (Version 3) is an open-source GUI that aims to facilitate the preparation, post-processing and analysis of transportation assignment, simulation and scheduling datasets. NeXTA Version 3 uses DTALite, a fast dynamic traffic assignment engine, for transportation network analysis.
 
