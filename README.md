@@ -27,9 +27,9 @@
   
   g.	RAS train timetable format
 
-NEXTA 支持以下交通网络数据类型的导出：
+   NEXTA 支持以下交通网络数据类型的导出：
   
-   a.	 Google Earth KML 
+   a.	Google Earth KML 
   
    b.	GIS shape file: node/link/zone, or convert user-defined CSV to shape 
   
@@ -42,7 +42,7 @@ NEXTA 支持以下交通网络数据类型的导出：
    f.	Identify signal location, estimate signal timing based on QEM tool 
   
    g.	Subarea analysis to provide path flow pattern from Vissim simulation.
-
+   
 3. NEXTA 提供高效的多项目管理界面，如：
   
   a.	 多窗口同步演示 
@@ -81,13 +81,13 @@ NEXTA 支持以下交通网络数据类型的导出：
 
 - 网络能力规划
   
-	• 添加/移除车道，为信号配时优化（ synchro ）或微观仿真（ VISSIM ）准备基础数据
+	- 添加/移除车道，为信号配时优化（ synchro ）或微观仿真（ VISSIM ）准备基础数据
 
-	• 导出交通能力分析包（HCM高速能力、旅行时间可靠性）
+	- 导出交通能力分析包（HCM高速能力、旅行时间可靠性）
 
 - 施工区的运用，道路价格的运用： 基于动态费用、时间异构值的Agent模型
 
-4.	排放研究交通安全研究
+- 排放研究交通安全研究
 
 DTALite 与NeXTA AMS 数据库格式的优势：
 
