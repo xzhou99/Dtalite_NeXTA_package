@@ -12,7 +12,6 @@
 ![nexta](Images/nexta2.png)
 
 2. NEXTA 支持以下交通网络数据类型的导入：
-3. 
 
   a.	GIS shape files 
   
@@ -94,40 +93,40 @@
 
 DTALite 与NeXTA AMS 数据库格式的优势：
 
-a.	道路类型数量没有限制Unlimited number of link types
+	a.	道路类型数量没有限制Unlimited number of link types
 
-b.	交通需求的类型和文件数量没有限制，可以进行24小时的数据加载，灵活的路网/shape file转换 
+	b.	交通需求的类型和文件数量没有限制，可以进行24小时的数据加载，灵活的路网/shape file转换 
+	
+	c.	交通需求数据类型可以是多种格式：3列OD数据；多列数据（如：SOV, HOV, Truck, subtotal）；矩阵；15分钟间隔的交通需求矩阵；以车辆为单位的交通需求数据
 
-c.	交通需求数据类型可以是多种格式：3列OD数据；多列数据（如：SOV, HOV, Truck, subtotal）；矩阵；15分钟间隔的交通需求矩阵；以车辆为单位的交通需求数据
+	d.	典型车辆类型：将trip类型转换为车辆类型，不同车辆类型的排放率，车辆的使用年限等
 
-d.	典型车辆类型：将trip类型转换为车辆类型，不同车辆类型的排放率，车辆的使用年限等
+	e.	Value Of Time 分布 
 
-e.	Value Of Time 分布 
+	f.	检测数据的类型：路段检测数据，车道检测数据，用户自定义的检测时间间隔车速检测数据，密度检测数据，出行时间数据
 
-f.	检测数据的类型：路段检测数据，车道检测数据，用户自定义的检测时间间隔车速检测数据，密度检测数据，出行时间数据
-
-g.	特定的车辆转向参数设定
+	g.	特定的车辆转向参数设定
 ![dta](Images/dta1.png)
 
 DTALite/NEXTA package 提供如下数据分析结果：
 
-  a.	车辆轨迹Agent based trajectory 
+	 a.	车辆轨迹Agent based trajectory 
 
-  b.	路段MOEs，路段宽度显示，用户定义的路间offset 
+	 b.	路段MOEs，路段宽度显示，用户定义的路间offset 
 
-  c.	基于动态分配结果的安全性和排放统计结果 
+  	c.	基于动态分配结果的安全性和排放统计结果 
 
-  d.	用于可定义路径的动态路径出行时间 
+  	d.	用于可定义路径的动态路径出行时间 
 
-  e.	以OD为对象的MOEs 
+	e.	以OD为对象的MOEs 
 
-  f.	路段选取分析 
+  	f.	路段选取分析 
 
-  g.	路径选取分析 
+	g.	路径选取分析 
 
-  h.	局部地区分析
+  	h.	局部地区分析
 
-  i.	MOEs和其它多种类别的图形化结果展示
+  	i.	MOEs和其它多种类别的图形化结果展示
 
 ![maps](Images/Project_US.png)
 Network EXplorer for Traffic Analysis (NEXTA) (Version 3) is an open-source GUI that aims to facilitate the preparation, post-processing and analysis of transportation assignment, simulation and scheduling datasets. NeXTA Version 3 uses DTALite, a fast dynamic traffic assignment engine, for transportation network analysis.
