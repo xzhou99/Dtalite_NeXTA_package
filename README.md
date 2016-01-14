@@ -12,6 +12,7 @@
 ![nexta](Images/nexta2.png)
 
 2. NEXTA 支持以下交通网络数据类型的导入：
+3. 
 
   a.	GIS shape files 
   
