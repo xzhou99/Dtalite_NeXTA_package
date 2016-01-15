@@ -70,7 +70,8 @@ NeXTA是一个开源的图形用户界面，主要功能包括建立路网及道
 五、 行仿真和可视化动态交通仿真结果
 
 ![nexta](Images/nexta4.png)
-
+![nexta](Images/output_1.png)
+![nexta](Images/output_2.png)
 
 
 
