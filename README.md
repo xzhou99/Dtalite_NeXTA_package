@@ -43,31 +43,31 @@ Network EXplorer for Traffic Analysis (NEXTA) (Version 3) is an open-source GUI 
   
   -	Subarea analysis to provide path flow pattern from Vissim simulation.
    
-三、 NEXTA 提供高效的多项目管理界面，如：
-  
-  -	 多窗口同步演示 
-  
-  -	在不同网络场景下进行同一点的选择
+3. NEXTA provides an excellent multi-project management interface with the following features. 
 
-  -	在不同网络场景下对同一条道路进行MOE比较 
+  -  Synchronized display 
   
-  -	比较基本网络和可选网络的道路MOE 
+  -  Click the same location across different networks 
   
-  -	在不同仿真结果进行车辆轨迹分析 
+  -  Compare link moe across different networks 
   
-  -	仿真结果和实际采集数据比较 
+  -  Find link moe difference between baseline and alternative networks 
   
-  -	以Link 为基础进行仿真结果分析 
+  -  Vehicle path analysis across different simulation results 
   
-  -	以路径旅行时间为基础进行仿真结果分析 
+  -  Simulation vs. sensor data 
   
-  -	仿真结果校核，用回归分析确定异常值
+  -  Link based comparison 
   
-四、 导入多日的交通分析数据并且提供多条件路径查找功能
+  -  Path travel time comparison 
+  
+  -  Validation results, diagonal line display to identify outliers
+  
+4. Import multi-day traffic measurement data and provide multi-criteria path finding results (mobility, reliability and emissions)
 
 ![nexta](Images/nexta3.png)
 
-五、 行仿真和可视化动态交通仿真结果
+5. Simulation and visuailiing dynamic outputs
 
 ![nexta](Images/nexta4.png)
 ![nexta](Images/output_1.png)
@@ -76,17 +76,17 @@ Network EXplorer for Traffic Analysis (NEXTA) (Version 3) is an open-source GUI 
 
 
 
-DTALite 是轻量级的中观交通仿真引擎，它的特点在于计算机运行上简单但计算理论严格的交通仿真模型；其并行计算功能利用了目前普及的多核CPU配置大大加快仿真进程；例如，在一个大范围路网内进行以车辆为对象的动态交通分配，对一百万辆车进行20个循环迭代，只需要一个小时。DTALite uses a computationally simple but theoretically rigorous traffic queuing model in its lightweight mesoscopic simulation engine. Its built-in parallel computing capability dramatically speeds-up the analysis process by using widely available multi-core CPU hardware. It takes about 1 hour to compute agent-based dynamic traffic equilibrium for a large-scale network with 1 million vehicles for 20 iterations.
+DTALite uses a computationally simple but theoretically rigorous traffic queuing model in its lightweight mesoscopic simulation engine. Its built-in parallel computing capability dramatically speeds-up the analysis process by using widely available multi-core CPU hardware. It takes about 1 hour to compute agent-based dynamic traffic equilibrium for a large-scale network with 1 million vehicles for 20 iterations.
 
-适用范围包括：
+The scope includes:
 
-- 大规模网络动态交通分配
+- dynamic traffic assignment of large-scale network
 
-	- 典型网路举例：2000交通小区，20000个路段，200万-1000万个车辆
+	- typical network: 2000 traffic zones, 200000 links, 2-10 million vehiches
 
-- 网络能力规划
+- Network capacity planning
   
-	- 添加/移除车道，为信号配时优化（ synchro ）或微观仿真（ VISSIM ）准备基础数据
+	- add/remove link, prepare basic data for optimizing signal timing (Synchro), and Micro simulation (Vissim)
 
 	- 导出交通能力分析包（HCM高速能力、旅行时间可靠性）
 
@@ -190,8 +190,7 @@ NEXTA 支持以下交通网络数据类型的导出：
 
 
 
-DTALite 是轻量级的中观交通仿真引擎，它的特点在于计算机运行上简单但计算理论严格的交通仿真模型；其并行计算功能利用了目前普及的多核CPU配置大大加快仿真进程；例如，在一个大范围路网内进行以车辆为对象的动态交通分配，对一百万辆车进行20个循环迭代，只需要一个小时。DTALite uses a computationally simple but theoretically rigorous traffic queuing model in its lightweight mesoscopic simulation engine. Its built-in parallel computing capability dramatically speeds-up the analysis process by using widely available multi-core CPU hardware. It takes about 1 hour to compute agent-based dynamic traffic equilibrium for a large-scale network with 1 million vehicles for 20 iterations.
-
+DTALite 是轻量级的中观交通仿真引擎，它的特点在于计算机运行上简单但计算理论严格的交通仿真模型；其并行计算功能利用了目前普及的多核CPU配置大大加快仿真进程；例如，在一个大范围路网内进行以车辆为对象的动态交通分配，对一百万辆车进行20个循环迭代，只需要一个小时。
 适用范围包括：
 
 - 大规模网络动态交通分配
