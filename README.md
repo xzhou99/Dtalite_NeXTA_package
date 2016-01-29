@@ -88,50 +88,52 @@ The scope includes:
   
 	- add/remove link, prepare basic data for optimizing signal timing (Synchro), and Micro simulation (Vissim)
 
-	- 导出交通能力分析包（HCM高速能力、旅行时间可靠性）
+	- export traffic capacity analising package (HCM, travel time reliability) 
 
-- 施工区的运用，道路价格的运用： 基于动态费用、时间异构值的Agent模型
+- Operation of work zone area, application of tolling road/link: based on dynamic tolling strategy, value of time, Agent model
 
-- 排放研究交通安全研究
+- Emission analysis, traffic safety analysis
 
-DTALite 与NeXTA AMS 数据库格式的优势：
 
-	-	道路类型数量没有限制Unlimited number of link types
+The DTALite package provides the following unique features using the AMS data hub format through NEXTA.
 
-	-	交通需求的类型和文件数量没有限制，可以进行24小时的数据加载，灵活的路网/shape file转换 
-	
-	-	交通需求数据类型可以是多种格式：3列OD数据、多列数据（如：SOV, HOV, Truck, subtotal）、矩阵、15分钟间隔的交通需求矩阵、以车辆为单位的交通需求数据
+- Unlimited number of link types
 
-	-	典型车辆类型：将trip类型转换为车辆类型，不同车辆类型的排放率，车辆的使用年限等
+- Unlimited number of demand types/demand files, 24 hour loading period: Flexible network conversion and linkage with GIS Shapefile (importing, script for mapping planning data to our data hub): save time, allow flexible number of link types and node types)
 
-	-	Value Of Time 分布 
+- Flexible demand data format: 3-column (o,d, value), multiple columns (o,d, SOV, HOV, Truck, subtotal), matrix, with 15-min departure time interval. Agent file
 
-	-	检测数据的类型：路段检测数据，车道检测数据，用户自定义的检测时间间隔车速检测数据，密度检测数据，出行时间数据
+- Typical vehicle types: mapping from trip types to vehicle types, vehicle emission rates for different vehicle types, different ages
+Semi-continuous Value Of Time distribution
 
-	-	特定的车辆转向参数设定
+- Common types of sensor data, link count, lane count, at user-defined interval, speed data, density data, route travel time data,
+
+- Unlimited number of safety prediction models, based on link volume, length, link type, # of intersections/drive ways per miles
+Movement-specific parameters (based on HCM/QEM methodology)
+
 ![dta](Images/dta1.png)
 
-DTALite/NEXTA package 提供如下数据分析结果：
+DTALite/NEXTA package provides a wide range of data output. 
+-  Agent based trajectory 
 
-	 -	车辆轨迹Agent based trajectory 
+-  Link-based MOEs, band-width display, user defined offset 
 
-	 -	路段MOEs，路段宽度显示，用户定义的路间offset 
+-  Safety and emission statistics based on dynamic assignment results. 
 
-  	 -	基于动态分配结果的安全性和排放统计结果 
+-  Time-dependent path travel times for user-defined path 
 
-  	 -	用于可定义路径的动态路径出行时间 
+-  OD based MOEs 
 
-	 - 	以OD为对象的MOEs 
+-  Select link analysis 
 
-  	 -	路段选取分析 
+-  Select path analysis 
 
-	 - 	路径选取分析 
+-  Subarea analysis 
 
-  	 -	局部地区分析
+-  Summary plot based on a wide range of categories and MOEs
 
-  	 -	MOEs和其它多种类别的图形化结果展示
 
-DTALite/NeXTA 在美国应用项目的分布
+DTALite/NeXTA applications in United States
 
 ![maps](Images/Project_US.png)
 
