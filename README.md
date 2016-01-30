@@ -67,8 +67,8 @@ Network EXplorer for Traffic Analysis (NEXTA) (Version 3) is an open-source GUI 
 5. Simulation and visuailiing dynamic outputs
 
 ![nexta](Images/nexta4.png)
-![nexta](Images/output_1.png)
-![nexta](Images/output_2.png)
+![nexta](Images/output_e1.png)
+![nexta](Images/output_e2.png)
 
 
 
