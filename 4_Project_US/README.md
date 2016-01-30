@@ -1,4 +1,4 @@
-#Projects in America
+#Projects in The United States
 
 ![maps](Images/Project_US.png)
 
