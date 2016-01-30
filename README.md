@@ -62,6 +62,7 @@ Network EXplorer for Traffic Analysis (NEXTA) (Version 3) is an open-source GUI 
   -  Validation results, diagonal line display to identify outliers
   
 4. Import multi-day traffic measurement data and provide multi-criteria path finding results (mobility, reliability and emissions)
+
 ![nexta](Images/nexta3.png)
 5. Simulation and visuailiing dynamic outputs
 
