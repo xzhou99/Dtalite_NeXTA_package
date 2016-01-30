@@ -139,7 +139,9 @@ DTALite/NeXTA applications in United States
 中文简介
 
 NeXTA是一个开源的图形用户界面，主要功能包括建立路网及道路属性信息的输入，交通分配结果的处理和分析，仿真运行和数据输出。主要功能包括：
+
 一、建网、导入、编辑、存储、导出以及可视化交通网
+
 二、 NEXTA 支持以下交通网络数据类型的导入：
   -	GIS shape files 
   -	Synchro UTDF and combined CSV files 
@@ -156,6 +158,7 @@ NEXTA 支持以下交通网络数据类型的导出：
   -	Export to Visim ANM format 
   -	Identify signal location, estimate signal timing based on QEM tool 
   -	Subarea analysis to provide path flow pattern from Vissim simulation. 
+
 三、 NEXTA 提供高效的多项目管理界面，如：
   
   -	 多窗口同步演示 
