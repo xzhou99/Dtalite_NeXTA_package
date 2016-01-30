@@ -1,5 +1,5 @@
-#DTALite/Nexta User‘s Guide 
-(Please click on above file name to get the pdf version.
+#DTALite/Nexta User‘s Guide#
+(Please click on above file name to get the pdf version.)
 ===========================
 1.1 DTALite White Paper
 
