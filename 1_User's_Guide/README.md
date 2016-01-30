@@ -1,6 +1,7 @@
-#DTALite/Nexta User‘s Guide#
+#DTALite/Nexta User's Guide#
 
 (Please click on above file name to get the pdf version.)
+
 1.1 DTALite White Paper
 
 1.2 Data Structure and Workflow of DTALite/Nexta
