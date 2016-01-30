@@ -4,14 +4,12 @@
 
 ###DTALite: Light-weight Dynamic Traffic Assignment Engine
 
-NeXTA是一个开源的图形用户界面，主要功能包括建立路网及道路属性信息的输入，交通分配结果的处理和分析，仿真运行和数据输出。Network EXplorer for Traffic Analysis (NEXTA) (Version 3) is an open-source GUI that aims to facilitate the preparation, post-processing and analysis of transportation assignment, simulation and scheduling datasets. NeXTA Version 3 uses DTALite, a fast dynamic traffic assignment engine, for transportation network analysis.
+Network EXplorer for Traffic Analysis (NEXTA) (Version 3) is an open-source GUI that aims to facilitate the preparation, post-processing and analysis of transportation assignment, simulation and scheduling datasets. NeXTA Version 3 uses DTALite, a fast dynamic traffic assignment engine, for transportation network analysis.
 
-一、建网、导入、编辑、存储、导出以及可视化交通网
-
+1. Create, import, edit, store, export and visualize transportation network data.
 ![nexta](Images/nexta1.png)
 ![nexta](Images/nexta2.png)
-
-二、 NEXTA 支持以下交通网络数据类型的导入：
+2. The NEXTA now support importing the following data 
 
   -	GIS shape files 
   
@@ -27,7 +25,7 @@ NeXTA是一个开源的图形用户界面，主要功能包括建立路网及道
   
   -	RAS train timetable format
 
-   NEXTA 支持以下交通网络数据类型的导出：
+   NEXTA also can export to the following formatNEXTA
   
   -	Google Earth KML 
   
@@ -43,6 +41,124 @@ NeXTA是一个开源的图形用户界面，主要功能包括建立路网及道
   
   -	Subarea analysis to provide path flow pattern from Vissim simulation.
    
+3. NEXTA provides an excellent multi-project management interface with the following features. 
+
+  -  Synchronized display 
+  
+  -  Click the same location across different networks 
+  
+  -  Compare link moe across different networks 
+  
+  -  Find link moe difference between baseline and alternative networks 
+  
+  -  Vehicle path analysis across different simulation results 
+  
+  -  Simulation vs. sensor data 
+  
+  -  Link based comparison 
+  
+  -  Path travel time comparison 
+  
+  -  Validation results, diagonal line display to identify outliers
+  
+4. Import multi-day traffic measurement data and provide multi-criteria path finding results (mobility, reliability and emissions)
+![nexta](Images/nexta3.png)
+
+5. Simulation and visuailiing dynamic outputs
+
+![nexta](Images/nexta4.png)
+![nexta](Images/output_e1.png)
+![nexta](Images/output_e2.png)
+
+
+
+
+DTALite uses a computationally simple but theoretically rigorous traffic queuing model in its lightweight mesoscopic simulation engine. Its built-in parallel computing capability dramatically speeds-up the analysis process by using widely available multi-core CPU hardware. It takes about 1 hour to compute agent-based dynamic traffic equilibrium for a large-scale network with 1 million vehicles for 20 iterations.
+
+The scope includes:
+
+- dynamic traffic assignment of large-scale network
+
+	- typical network: 2000 traffic zones, 200000 links, 2-10 million vehiches
+
+- Network capacity planning
+  
+	- add/remove link, prepare basic data for optimizing signal timing (Synchro), and Micro simulation (Vissim)
+
+	- export traffic capacity analising package (HCM, travel time reliability) 
+
+- Operation of work zone area, application of tolling road/link: based on dynamic tolling strategy, value of time, Agent model
+
+- Emission analysis, traffic safety analysis
+
+
+The DTALite package provides the following unique features using the AMS data hub format through NEXTA.
+
+- Unlimited number of link types
+
+- Unlimited number of demand types/demand files, 24 hour loading period: Flexible network conversion and linkage with GIS Shapefile (importing, script for mapping planning data to our data hub): save time, allow flexible number of link types and node types)
+
+- Flexible demand data format: 3-column (o,d, value), multiple columns (o,d, SOV, HOV, Truck, subtotal), matrix, with 15-min departure time interval. Agent file
+
+- Typical vehicle types: mapping from trip types to vehicle types, vehicle emission rates for different vehicle types, different ages
+Semi-continuous Value Of Time distribution
+
+- Common types of sensor data, link count, lane count, at user-defined interval, speed data, density data, route travel time data,
+
+- Unlimited number of safety prediction models, based on link volume, length, link type, # of intersections/drive ways per miles
+Movement-specific parameters (based on HCM/QEM methodology)
+
+![dta](Images/dta1.png)
+
+DTALite/NEXTA package provides a wide range of data output. 
+-  Agent based trajectory 
+
+-  Link-based MOEs, band-width display, user defined offset 
+
+-  Safety and emission statistics based on dynamic assignment results. 
+
+-  Time-dependent path travel times for user-defined path 
+
+-  OD based MOEs 
+
+-  Select link analysis 
+
+-  Select path analysis 
+
+-  Subarea analysis 
+
+-  Summary plot based on a wide range of categories and MOEs
+
+
+DTALite/NeXTA applications in The United States
+
+![maps](Images/Project_US.png)
+
+
+
+中文简介
+
+NeXTA是一个开源的图形用户界面，主要功能包括建立路网及道路属性信息的输入，交通分配结果的处理和分析，仿真运行和数据输出。主要功能包括：
+
+一、建网、导入、编辑、存储、导出以及可视化交通网
+
+二、 NEXTA 支持以下交通网络数据类型的导入：
+  -	GIS shape files 
+  -	Synchro UTDF and combined CSV files 
+  -	TMC-based sensor data (e.g. Inrix or traffic.com) 
+  -	Import google transit feed data 
+  -	Open dynsmart data set for reliability analysis 
+  -	NGSim data for vehicle analysis 
+  -	RAS train timetable format
+NEXTA 支持以下交通网络数据类型的导出：
+  -	Google Earth KML 
+  -	GIS shape file: node/link/zone, or convert user-defined CSV to shape 
+  -	synchro (UTDF) 
+  -	Use QEM tool to determine timing data 
+  -	Export to Visim ANM format 
+  -	Identify signal location, estimate signal timing based on QEM tool 
+  -	Subarea analysis to provide path flow pattern from Vissim simulation. 
+
 三、 NEXTA 提供高效的多项目管理界面，如：
   
   -	 多窗口同步演示 
@@ -76,8 +192,7 @@ NeXTA是一个开源的图形用户界面，主要功能包括建立路网及道
 
 
 
-DTALite 是轻量级的中观交通仿真引擎，它的特点在于计算机运行上简单但计算理论严格的交通仿真模型；其并行计算功能利用了目前普及的多核CPU配置大大加快仿真进程；例如，在一个大范围路网内进行以车辆为对象的动态交通分配，对一百万辆车进行20个循环迭代，只需要一个小时。DTALite uses a computationally simple but theoretically rigorous traffic queuing model in its lightweight mesoscopic simulation engine. Its built-in parallel computing capability dramatically speeds-up the analysis process by using widely available multi-core CPU hardware. It takes about 1 hour to compute agent-based dynamic traffic equilibrium for a large-scale network with 1 million vehicles for 20 iterations.
-
+DTALite 是轻量级的中观交通仿真引擎，它的特点在于计算机运行上简单但计算理论严格的交通仿真模型；其并行计算功能利用了目前普及的多核CPU配置大大加快仿真进程；例如，在一个大范围路网内进行以车辆为对象的动态交通分配，对一百万辆车进行20个循环迭代，只需要一个小时。
 适用范围包括：
 
 - 大规模网络动态交通分配
@@ -133,4 +248,4 @@ DTALite/NEXTA package 提供如下数据分析结果：
 
 DTALite/NeXTA 在美国应用项目的分布
 
-![maps](Images/Project_US.png)
+![maps](Images/Project_US.png)	

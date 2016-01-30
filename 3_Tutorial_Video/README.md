@@ -9,3 +9,10 @@
  
 ##tutorial video by Dr.Xuesong Zhou
 ###[download zip file](https://dl.dropboxusercontent.com/u/9941774/UMD_DTALite_AgBM%20Training%20Workshop.zip)
+Study material:
+
+3.1 Workshop handout
+
+3.2 workshop presentation
+
+3.3 Workshop schedule
