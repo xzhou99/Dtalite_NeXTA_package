@@ -130,7 +130,7 @@ DTALite/NEXTA package provides a wide range of data output.
 -  Summary plot based on a wide range of categories and MOEs
 
 
-DTALite/NeXTA applications in United States
+DTALite/NeXTA applications in The United States
 
 ![maps](Images/Project_US.png)
 
