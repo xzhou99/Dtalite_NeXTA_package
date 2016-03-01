@@ -4,9 +4,9 @@
 
 ###DTALite: Light-weight Dynamic Traffic Assignment Engine
 
-#####Developer: Dr. Xuesong Zhou 
-	       email: xzhou99@gmail.com
-	       Personal Website: [Homepage](https://sites.google.com/site/xuesongzhou999/)
+#####Developer: Dr. Xuesong Zhou
+Email: xzhou99@gmail.com
+Personal Website: [Homepage](https://sites.google.com/site/xuesongzhou999/)
 	       
 
 [DTALite: A queue-based mesoscopic traffic simulator for fast model evaluation and calibration. Xuesong Zhou, Jeffrey Taylor. Cogent Engineering, Vol. 1, Iss. 1, 2014](http://www.tandfonline.com/doi/full/10.1080/23311916.2014.961345)
