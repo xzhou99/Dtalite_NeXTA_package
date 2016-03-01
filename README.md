@@ -4,7 +4,7 @@
 
 ###DTALite: Light-weight Dynamic Traffic Assignment Engine
 
-#####Developer: Dr. Xuesong Zhou
+####Developer: Dr. Xuesong Zhou
 Email: xzhou99@gmail.com
 
 Personal Website: [Homepage](https://sites.google.com/site/xuesongzhou999/)
