@@ -4,6 +4,9 @@
 
 ###DTALite: Light-weight Dynamic Traffic Assignment Engine
 
+Developer: Dr. Xuesong Zhou (xzhou99@gmail.com)
+
+
 Network EXplorer for Traffic Analysis (NEXTA) (Version 3) is an open-source GUI that aims to facilitate the preparation, post-processing and analysis of transportation assignment, simulation and scheduling datasets. NeXTA Version 3 uses DTALite, a fast dynamic traffic assignment engine, for transportation network analysis.
 
 1. Create, import, edit, store, export and visualize transportation network data.
