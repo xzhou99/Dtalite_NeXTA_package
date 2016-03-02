@@ -1,12 +1,19 @@
 ##Tutorial Documents
 
 3.0 DTALite and Nexta Q & A
+
 3.1  Work Zone
+
 3.2  GIS Import	
+
 3.3 Traffic Flow Dynamics
+
 3.4 Static Traffic Assignment
+
 3.5 OD Estimation
+
 3.6 How to Use NEXTA as Visualization Data hub
+
 3.7 ABM+DTA
 
 
