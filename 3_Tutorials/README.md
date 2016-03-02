@@ -1,6 +1,6 @@
 ##Tutorial Documents
 
-3.0 DTALite and Nexta Q & A
+3.0 [DTALite and Nexta Q & A](https://docs.google.com/document/d/1zleCAeq6CfdPBmk9DkHSmlob82qnMaShrshgvZtfTbQ/edit)
 
 3.1  Work Zone
 
