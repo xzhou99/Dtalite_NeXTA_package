@@ -17,7 +17,7 @@
 3.7 ABM+DTA
 
 
-##Tutorial Video List
+##Tutorial Videos
 
 ###Webinar Videos
 ####[Youtube Site](https://www.youtube.com/channel/UCUHlqojCQ4f7VvqroUhbaFA)
@@ -28,7 +28,7 @@ This is a recorded version of the webinar offered June 23rd, 2013, and is made a
 - [Software Demostration](https://www.youtube.com/watch?v=lxFFDvwPtSY)
 - [Introduction to Homework Assignment](https://www.youtube.com/watch?v=taIlhCl2Wic)
  
-###tutorial video by Dr.Xuesong Zhou
+###tutorial video by Dr.Xuesong Zhou (July 2nd 2015)
 ####[download zip file](https://dl.dropboxusercontent.com/u/9941774/UMD_DTALite_AgBM%20Training%20Workshop.zip)
 Study material:
 
