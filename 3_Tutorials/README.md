@@ -32,8 +32,8 @@ This is a recorded version of the webinar offered June 23rd, 2013, and is made a
 ####[download zip file](https://dl.dropboxusercontent.com/u/9941774/UMD_DTALite_AgBM%20Training%20Workshop.zip)
 Study material:
 
-3.1 Workshop handout
+3.8a Workshop handout
 
-3.2 workshop presentation
+3.8b workshop presentation
 
-3.3 Workshop schedule
+3.8c Workshop schedule
