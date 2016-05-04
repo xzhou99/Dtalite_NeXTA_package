@@ -1,3 +1,0 @@
-#Tolling Scenario Example
-=========================
-
