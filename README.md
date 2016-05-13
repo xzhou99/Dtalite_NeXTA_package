@@ -9,8 +9,15 @@ Personal Website: [Dr. Xuesong Zhou's Homepage](https://sites.google.com/site/xu
 
 ### Latest Software Release 05-10-2016: 
 
-Please download the DTALite.exe and NEXTA.exe by click the following link.
-Steps for Installing DTALite/NEXTA package
+Instruction for the use of NeXTA and DTALite:
+
+Step 1: make sure that you have installed the Microsoft Visual C++ 2015 Redistributable Package (x86) for parallel computing in DTALite (https://www.microsoft.com/en-us/download/details.aspx?id=3387)
+Step 2: make sure that you have installed Gnuplot Software for some visualization functions in NeXTA (http://www.gnuplot.info/)
+Step 3: Download and unzip the NeXTA/DTALite software package. 
+Step 4: Click “NeXTA”? “File”? “Open Traffic Network Project” to choose the tnp file in your network data set.
+Step 5: Click “Project” ? “4.Perform Traffic Assignment” to make your settings and run “DTALite” for dynamic traffic assignment and simulation.
+
+If GIS data importing/exporting are needed for you, please download and unzip the NeXTA GIS software package and obey the related instructions.
 
 #[A: NEXTA-DTALite Software Release](https://dl.dropboxusercontent.com/u/9941774/DTALite-NEXTA-Software-Package.zip) (05-03-2016).
 
