@@ -9,7 +9,7 @@ Personal Website: [Dr. Xuesong Zhou's Homepage](https://sites.google.com/site/xu
 
 ### Latest Software Release 05-10-2016:
 
-NOTE: NeXTA is only compatible with a Microsoft Operating System. 
+#####NOTE: NeXTA is only compatible with a Microsoft Operating System. 
 
 Instruction for the use of NeXTA and DTALite:
 
