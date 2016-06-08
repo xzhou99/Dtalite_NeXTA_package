@@ -1,4 +1,4 @@
-# DTALite/NeXTA Software Introduction
+﻿# DTALite/NeXTA Software Introduction
 
 ####Contact: Dr. Xuesong Zhou
 Email: xzhou99@gmail.com
@@ -7,7 +7,9 @@ Personal Website: [Dr. Xuesong Zhou's Homepage](https://sites.google.com/site/xu
 
 ###NeXTA: Network EXplorer for Traffic Analysis
 
-### Latest Software Release 05-10-2016: 
+### Latest Software Release 05-10-2016:
+
+NOTE: NeXTA is only compatible with a Microsoft Operating System. 
 
 Instruction for the use of NeXTA and DTALite:
 
