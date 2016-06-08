@@ -1,6 +1,9 @@
 ### Latest Software Release 05-10-2016: 
 
 Please download the DTALite.exe and NEXTA.exe by click the following link.
+
+#####NOTE: NeXTA is only compatible with a Microsoft Operating System. 
+
 #[A: NEXTA-DTALite Software Release](https://github.com/xzhou99/dtalite_software_release/blob/gh-pages/1_Software_Download_Older_Version/DTALite-NEXTA-Software-Package.zip) (05-03-2016).
 
 ###[A1:Data structure and workflow of DTALite](https://docs.google.com/document/d/1z4YsztPXcWfQAd8NVD4_KXv7hJcbyXdYPzwL6z8xn3U)
