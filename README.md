@@ -1,13 +1,11 @@
 ﻿# DTALite/NeXTA Software Introduction
 
-####Contact: Dr. Xuesong Zhou
-Email: xzhou99@gmail.com
-
-Personal Website: [Dr. Xuesong Zhou's Homepage](https://sites.google.com/site/xuesongzhou999/)
+####Contact: Dr. Xuesong Zhou at Arizona State University, U.S.
+Email: xzhou74@asu.edu,xzhou99@gmail.com
 
 ###NeXTA: Network EXplorer for Traffic Analysis
 
-### Latest Software Release 05-10-2016:
+### Latest Software Release 09-15-2016:
 
 #####NOTE: NeXTA is only compatible with a Microsoft Operating System. 
 
@@ -21,15 +19,15 @@ Step 3: Download and unzip the NeXTA/DTALite software package.
 
 If GIS data importing/exporting are needed for you, please download and unzip the NeXTA GIS software package and obey the related instructions.
 
-#[A: NEXTA-DTALite Software Release](https://github.com/xzhou99/dtalite_software_release/blob/gh-pages/1_Software_Download_Older_Version/DTALite-NEXTA-Software-Package.zip) (05-03-2016).
+#[A: NEXTA-DTALite Software Release]
 
-###[A1:Data structure and workflow of DTALite](https://docs.google.com/document/d/1z4YsztPXcWfQAd8NVD4_KXv7hJcbyXdYPzwL6z8xn3U)
-###[A2:NEXTA user guide](https://docs.google.com/document/d/1N9Klu-jMr4vAA2sbpTVCREO_IHXBt93HEWk_4xOPcAk)
+###[A1:Data structure and workflow of DTALite]()
+###[A2:NEXTA user guide]()
 ###[A3:ABM+DTA Integration user guide ](https://docs.google.com/document/d/1oc1FAapyN0K1v3KSIB04gXrlL1bFTYVH3I6S1URR6oY)
 ###[A4:OD demand estimation user guide] (https://docs.google.com/document/d/1UqFXVRbf0eOuq-liPXCDF6PVuSNjglWggLPbwT_y3TI)
 
-#[B: NEXTA-for-GIS Software Release](https://github.com/xzhou99/dtalite_software_release/blob/gh-pages/1_Software_Download_Older_Version/GIS-Import_Export_Tool.zip) (05-10-2016).
-###[B1: User guide](https://docs.google.com/document/d/1OzI1RM2bt6xMvfK6PKmtqvwkMaQ3MTp7j6PFnc64NQA)
+#[B: NEXTA-for-GIS Software Release]().
+###[B1: User guide]()
 
 ###DTALite: Light-weight Dynamic Traffic Assignment Engine
 
@@ -44,31 +42,15 @@ Network EXplorer for Traffic Analysis (NEXTA) (Version 3) is an open-source GUI 
 
   -	GIS shape files 
   
-  -	Synchro UTDF and combined CSV files 
+  - CSV file based network data 
   
   -	TMC-based sensor data (e.g. Inrix or traffic.com) 
   
-  -	Import google transit feed data 
-  
-  -	Open dynsmart data set for reliability analysis 
-  
-  -	NGSim data for vehicle analysis 
-  
-  -	RAS train timetable format
-
    NEXTA also can export to the following formatNEXTA
   
   -	Google Earth KML 
   
   -	GIS shape file: node/link/zone, or convert user-defined CSV to shape 
-  
-  -	synchro (UTDF) 
-  
-  -	Use QEM tool to determine timing data 
-  
-  -	Export to Visim ANM format 
-  
-  -	Identify signal location, estimate signal timing based on QEM tool 
   
   -	Subarea analysis to provide path flow pattern from Vissim simulation.
    
@@ -100,8 +82,6 @@ Network EXplorer for Traffic Analysis (NEXTA) (Version 3) is an open-source GUI 
 ![nexta](Images/nexta4.png)
 ![nexta](Images/output_e1.png)
 ![nexta](Images/output_e2.png)
-
-
 
 
 DTALite uses a computationally simple but theoretically rigorous traffic queuing model in its lightweight mesoscopic simulation engine. Its built-in parallel computing capability dramatically speeds-up the analysis process by using widely available multi-core CPU hardware. It takes about 1 hour to compute agent-based dynamic traffic equilibrium for a large-scale network with 1 million vehicles for 20 iterations.
@@ -175,19 +155,10 @@ NeXTA是一个开源的图形用户界面，主要功能包括建立路网及道
 
 二、 NEXTA 支持以下交通网络数据类型的导入：
   -	GIS shape files 
-  -	Synchro UTDF and combined CSV files 
-  -	TMC-based sensor data (e.g. Inrix or traffic.com) 
-  -	Import google transit feed data 
-  -	Open dynsmart data set for reliability analysis 
-  -	NGSim data for vehicle analysis 
-  -	RAS train timetable format
+  -- CSV based network files 
+  
 NEXTA 支持以下交通网络数据类型的导出：
   -	Google Earth KML 
-  -	GIS shape file: node/link/zone, or convert user-defined CSV to shape 
-  -	synchro (UTDF) 
-  -	Use QEM tool to determine timing data 
-  -	Export to Visim ANM format 
-  -	Identify signal location, estimate signal timing based on QEM tool 
   -	Subarea analysis to provide path flow pattern from Vissim simulation. 
 
 三、 NEXTA 提供高效的多项目管理界面，如：
