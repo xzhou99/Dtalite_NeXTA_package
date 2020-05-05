@@ -1,0 +1,67 @@
+DTALite:
+A Fast Open Source DTA Engine
+Software Version =,2.0.0
+Release Date=,May  4 2020
+Traffic Flow Model =,Newell's Cumulative Flow Count Model
+Assignment method=,MSA
+ 
+# of Nodes=,149
+# of Zones=,42
+# of Link Types=,5
+# of Links=,376
+--Parameters for link effective green time mode --=,
+# of Links with Effective Green Time=,0
+Avg Effective Green Time (sec)=,0
+Avg Signalized Lane Capacity (vph)=,0
+Avg Cycle length (sec)=,0
+---- =,
+# of Prohibited Movements=,0
+# of Signals=,15
+# of Zones=,42
+# of Demand Types=,0
+
+Demand multiplier in input_scenario_settings.csv file=,1
+# of Agents to be simulated=,2522
+# of Intra-zone Agents (not be simulated)=,0
+Starting Time of Demand Loading (min)=,420
+Ending Time of Demand Loading (min)=,480
+
+--Link Type Statistics--
+link_type,link_type_name,link_type_code,number_of_links,avg_lane_capacity,avg_number_of_lanes,avg_speed_limit,avg_link_length,avg_K_jam,total_link_length,
+1,Zone Connector,c,112,10000,7,20.875,0.269647,1152.57,30.2004,
+2,Highway/Expressway,h,58,864.414,2.27586,37.4138,0.264813,1080.47,15.3592,
+3,Principal arterial,a,80,793.775,1.8,34.875,0.216109,1317.09,17.2887,
+4,Major arterial,a,112,645.429,1.125,27.4107,0.23101,1177.29,25.8731,
+5,Minor arterial,a,14,514,1,26,0.277057,1251.57,3.8788,
+Routing method=,Individual agent-based routing
+Iteration #,CPU Running Time,Per Iteration CPU Running Time,# of agents,Avg Travel Time (min),Avg Waiting Time at Origin (min),Avg Trip Time Index=(Mean TT/Free-flow TT),Avg Distance,Avg Speed,% considering to switch,% switched,% completing trips,network clearance time (in min),Avg User Equilibirum (UE) gap (min),Relative UE gap (%),travel_time_,travel_time_,travel_time_,
+1, , ,2369,5.87628,0,1.01715,3.05356,31.1785,100,100,100,491, , , , , ,
+2, , ,2369,5.87628,0,1.01715,3.05356,31.1785,49.7678,0,100,491,2.30498,38.9273, , , ,
+3, , ,2369,5.87628,0,1.01715,3.05356,31.1785,32.9253,0,100,491,3.04264,51.5832, , , ,
+4, , ,2369,5.87628,0,1.01715,3.05356,31.1785,24.7362,0,100,491,3.36776,57.6022, , , ,
+5, , ,2369,5.87628,0,1.01715,3.05356,31.1785,20.0507,0,100,491,3.53738,60.7292, , , ,
+6, , ,2369,5.87628,0,1.01715,3.05356,31.1785,16.8848,0,100,491,3.71689,63.0034, , , ,
+7, , ,2369,5.87628,0,1.01715,3.05356,31.1785,14.352,0,100,491,3.78403,64.8339, , , ,
+8, , ,2369,5.87628,0,1.01715,3.05356,31.1785,12.7058,0,100,491,3.87251,65.9795, , , ,
+9, , ,2369,5.87628,0,1.01715,3.05356,31.1785,11.1017,0,100,491,3.92826,67.1694, , , ,
+10, , ,2369,5.87628,0,1.01715,3.05356,31.1785,10.2575,0,100,491,3.94589,67.6909, , , ,
+11, , ,2369,5.87628,0,1.01715,3.05356,31.1785,9.11777,0,100,491,4.01411,68.511, , , ,
+12, , ,2369,5.87628,0,1.01715,3.05356,31.1785,8.23132,0,100,491,4.04386,69.2341, , , ,
+13, , ,2369,5.87628,0,1.01715,3.05356,31.1785,7.68257,0,100,491,4.10006,69.6624, , , ,
+14, , ,2369,5.87628,0,1.01715,3.05356,31.1785,7.13381,0,100,491,4.10474,69.9986, , , ,
+15, , ,2369,5.87628,0,1.01715,3.05356,31.1785,6.50063,0,100,491,4.12915,70.5257, , , ,
+16, , ,2369,5.87628,0,1.01715,3.05356,31.1785,6.24736,0,100,491,4.1404,70.6757, , , ,
+17, , ,2369,5.87628,0,1.01715,3.05356,31.1785,6.0363,0,100,491,4.14364,70.7441, , , ,
+18, , ,2369,5.87628,0,1.01715,3.05356,31.1785,5.65639,0,100,491,4.15144,71.0073, , , ,
+19, , ,2369,5.87628,0,1.01715,3.05356,31.1785,5.23428,0,100,491,4.19079,71.4531, , , ,
+20, , ,2369,5.87628,0,1.01715,3.05356,31.1785,4.93879,0,100,491,4.18371,71.6385, , , ,
+
+time_stamp_in_min,time_clock,cumulative_in_flow_count,cumulative_out_flow_count,number_agents_in_network,number_agents_entering_network,total_agent_distance_traveled,avg_trip_time (departure_time_based),avg_trip_time_index = trip time/FFTT,avg_distance,avg_speed,
+420,,37,0, , , ,5.8274,1.01715,3.05356,31.44,
+480,,2369,2157, , , ,0,0,0,0,
+time_stamp_in_min,time_clock,cumulative_in_flow_count,cumulative_out_flow_count,number_agents_in_network,number_agents_entering_network,total_agent_distance_traveled,avg_trip_time (departure_time_based),avg_trip_time_index = trip time/FFTT,avg_distance,avg_speed,
+420,,37,0, , , ,5.92972,1.01636,3.11987,31.5685,
+435,,597,380, , , ,5.85902,1.01841,3.07566,31.4967,
+450,,1239,968, , , ,5.61675,1.0171,2.94207,31.4282,
+465,,1826,1597, , , ,5.9085,1.01662,3.07881,31.2649,
+480,,2369,2157, , , ,0,0,0,0,

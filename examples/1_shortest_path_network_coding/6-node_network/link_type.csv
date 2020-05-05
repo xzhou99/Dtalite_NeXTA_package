@@ -1,0 +1,9 @@
+link_type,name,type_code,agent_tp_restriction
+0,Ped link,a,
+1,Freeway,f,
+2,Freeway,f,
+3,Expressway,f,
+4,Collector,c,
+5,Ramp,a,
+6,Dummy link,a,
+7,Major arterial,a,
