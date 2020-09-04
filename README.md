@@ -1,36 +1,53 @@
-﻿# DTALite/NeXTA Software Introduction
+﻿# STALite/DTALite/NeXTA Software Introduction
 
 ####Contact: Dr. Xuesong Zhou at Arizona State University, U.S.
 Email: xzhou74@asu.edu,xzhou99@gmail.com
 
+STAlite/DTALite is an open-source AMS library for efficiently macroscopic traffic assignment 
+ based on General Modeling Network Specification (GMNS) format
+  
+  #What is GMNS?
+  General Travel Network Format Specification is a product of Zephyr Foundation, which aims to advance the field through flexible and efficient support, education, guidance, encouragement, and incubation.
+  Further Details in https://zephyrtransport.org/projects/2-network-standard-and-tools/
+  
+  #Goals of STALite/DTALite development
+  1. Provide an open-source code base to enable transportation researchers and software developers to expand its range of capabilities to various traffic management application.
+  2. Present results to other users by visualizing time-varying traffic flow dynamics and traveler route choice behavior in an integrated environment.
+  3. Provide a free, educational tool for students to understand the complex decision-making process in transportation planning and optimization processes. 
+
+  
+ #Features
+ 
+ 1.Network representation based on GMNS format
+ 
+ 2.Easy to include demand from different multiple time periods( AM, MD, PM, NT or Hourly)
+ 
+ 3.Provide API for both C++ and Python interface 
+ 
+ 4.Efficient multi-threading parallel computation and memory management, implemented in C++
+ 	Utilize up to 40 CPU cores, 200 GB of Memory for networks with more than 50K nodes
+ 	
+ 5.Extendable Volume Delay Function (VDF) functions:
+   Standard BPR function, and BPR_X function that can obtain dynamic travel time efficiently 
+
 ###NeXTA: Network EXplorer for Traffic Analysis
 
-### Latest Software Release 09-15-2016:
+### Latest Software Release 09-4-2020:
 
 #####NOTE: NeXTA is only compatible with a Microsoft Operating System. 
 
-Instruction for the use of NeXTA and DTALite:
+Instruction for the use of NeXTA and STALite/DTALite:
 
-Step 1: make sure that you have installed the Microsoft Visual C++ 2015 Redistributable Package (x86) for parallel computing in DTALite (https://www.microsoft.com/en-us/download/details.aspx?id=3387)
+#[A: Documentation]
 
-Step 2: make sure that you have installed Gnuplot Software for some visualization functions in NeXTA (http://www.gnuplot.info/)
-
-Step 3: Download and unzip the NeXTA/DTALite software package. 
-
-If GIS data importing/exporting are needed for you, please download and unzip the NeXTA GIS software package and obey the related instructions.
-
-#[A: NEXTA-DTALite Software Release]
-
-###[A1:Data structure and workflow of DTALite]()
+###[A1:Data structure and workflow](https://docs.google.com/document/d/e/2PACX-1vR_k5Hjlc5B4Oxf4Q41RqHM-Q6RApHiIkfmPssSikhEGSA55r3_yPkC1TYtBlormFDQ_wvLO6M8NYt0/pub)
 ###[A2:NEXTA user guide]()
-###[A3:ABM+DTA Integration user guide ](https://docs.google.com/document/d/1oc1FAapyN0K1v3KSIB04gXrlL1bFTYVH3I6S1URR6oY)
-###[A4:OD demand estimation user guide] (https://docs.google.com/document/d/1UqFXVRbf0eOuq-liPXCDF6PVuSNjglWggLPbwT_y3TI)
+###[A3:OD demand estimation user guide] (https://docs.google.com/document/d/1UqFXVRbf0eOuq-liPXCDF6PVuSNjglWggLPbwT_y3TI)
 
 #[B: NEXTA-for-GIS Software Release]().
 ###[B1: User guide]()
 
 ###DTALite: Light-weight Dynamic Traffic Assignment Engine
-
 White Paper: [DTALite: A queue-based mesoscopic traffic simulator for fast model evaluation and calibration. Xuesong Zhou, Jeffrey Taylor. Cogent Engineering, Vol. 1, Iss. 1, 2014](http://www.tandfonline.com/doi/full/10.1080/23311916.2014.961345)
 
 Network EXplorer for Traffic Analysis (NEXTA) (Version 3) is an open-source GUI that aims to facilitate the preparation, post-processing and analysis of transportation assignment, simulation and scheduling datasets. NeXTA Version 3 uses DTALite, a fast dynamic traffic assignment engine, for transportation network analysis.

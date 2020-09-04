@@ -1,9 +1,0 @@
-link_type,link_type_name,type_code
-0,Ped link,a
-1,Freeway connector,f
-2,Freeway,f
-3,Expressway,f
-4,Collector,c
-5,Ramp,a
-6,Dummy link,a
-7,Major arterial,a

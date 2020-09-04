@@ -1,0 +1,262 @@
+-------Iteration 0 -------
+------------START: origin:  1  ; Departure time: 0  ; demand type:  0  --------------
+--------origin  1 ; destination node: 1 ; (zone: 1) -------
+--------iteration number outterloop  0 ;  -------
+--------origin  1 ; destination node: 2 ; (zone: 2) -------
+--------iteration number outterloop  0 ;  -------
+--------origin  1 ; destination node: 3 ; (zone: 3) -------
+--------iteration number outterloop  0 ;  -------
+--------origin  1 ; destination node: 6 ; (zone: 4) -------
+--------iteration number outterloop  0 ;  -------
+--------origin  1 ; destination node: 12 ; (zone: 5) -------
+--------iteration number outterloop  0 ;  -------
+--------origin  1 ; destination node: 18 ; (zone: 6) -------
+--------iteration number outterloop  0 ;  -------
+--------origin  1 ; destination node: 20 ; (zone: 7) -------
+--------iteration number outterloop  0 ;  -------
+
+ o_k = 0; t_k=0; origin  1 ; destination node: 20 ; (zone: 7); link (18,20, t=0)---volume = 0.000000 + 1.000000 = 1.000000
+ o_k = 0; t_k=0; origin  1 ; destination node: 20 ; (zone: 7); link (7,18, t=0)---volume = 0.000000 + 1.000000 = 1.000000
+ o_k = 0; t_k=0; origin  1 ; destination node: 20 ; (zone: 7); link (8,7, t=0)---volume = 0.000000 + 1.000000 = 1.000000
+ o_k = 0; t_k=0; origin  1 ; destination node: 20 ; (zone: 7); link (6,8, t=0)---volume = 0.000000 + 1.000000 = 1.000000
+ o_k = 0; t_k=0; origin  1 ; destination node: 20 ; (zone: 7); link (2,6, t=0)---volume = 0.000000 + 1.000000 = 1.000000
+ o_k = 0; t_k=0; origin  1 ; destination node: 20 ; (zone: 7); link (1,2, t=0)---volume = 0.000000 + 1.000000 = 1.000000
+-------------END---------------- 
+------------START: origin:  2  ; Departure time: 0  ; demand type:  0  --------------
+--------origin  2 ; destination node: 1 ; (zone: 1) -------
+--------iteration number outterloop  0 ;  -------
+--------origin  2 ; destination node: 2 ; (zone: 2) -------
+--------iteration number outterloop  0 ;  -------
+--------origin  2 ; destination node: 3 ; (zone: 3) -------
+--------iteration number outterloop  0 ;  -------
+--------origin  2 ; destination node: 6 ; (zone: 4) -------
+--------iteration number outterloop  0 ;  -------
+--------origin  2 ; destination node: 12 ; (zone: 5) -------
+--------iteration number outterloop  0 ;  -------
+--------origin  2 ; destination node: 18 ; (zone: 6) -------
+--------iteration number outterloop  0 ;  -------
+
+ o_k = 0; t_k=0; origin  2 ; destination node: 18 ; (zone: 6); link (7,18, t=0)---volume = 1.000000 + 1.000000 = 2.000000
+ o_k = 0; t_k=0; origin  2 ; destination node: 18 ; (zone: 6); link (8,7, t=0)---volume = 1.000000 + 1.000000 = 2.000000
+ o_k = 0; t_k=0; origin  2 ; destination node: 18 ; (zone: 6); link (6,8, t=0)---volume = 1.000000 + 1.000000 = 2.000000
+ o_k = 0; t_k=0; origin  2 ; destination node: 18 ; (zone: 6); link (2,6, t=0)---volume = 1.000000 + 1.000000 = 2.000000
+--------origin  2 ; destination node: 20 ; (zone: 7) -------
+--------iteration number outterloop  0 ;  -------
+-------------END---------------- 
+------------START: origin:  3  ; Departure time: 0  ; demand type:  0  --------------
+--------origin  3 ; destination node: 1 ; (zone: 1) -------
+--------iteration number outterloop  0 ;  -------
+--------origin  3 ; destination node: 2 ; (zone: 2) -------
+--------iteration number outterloop  0 ;  -------
+--------origin  3 ; destination node: 3 ; (zone: 3) -------
+--------iteration number outterloop  0 ;  -------
+--------origin  3 ; destination node: 6 ; (zone: 4) -------
+--------iteration number outterloop  0 ;  -------
+--------origin  3 ; destination node: 12 ; (zone: 5) -------
+--------iteration number outterloop  0 ;  -------
+--------origin  3 ; destination node: 18 ; (zone: 6) -------
+--------iteration number outterloop  0 ;  -------
+--------origin  3 ; destination node: 20 ; (zone: 7) -------
+--------iteration number outterloop  0 ;  -------
+
+ o_k = 0; t_k=0; origin  3 ; destination node: 20 ; (zone: 7); link (21,20, t=0)---volume = 0.000000 + 1.000000 = 1.000000
+ o_k = 0; t_k=0; origin  3 ; destination node: 20 ; (zone: 7); link (24,21, t=0)---volume = 0.000000 + 1.000000 = 1.000000
+ o_k = 0; t_k=0; origin  3 ; destination node: 20 ; (zone: 7); link (13,24, t=0)---volume = 0.000000 + 1.000000 = 1.000000
+ o_k = 0; t_k=0; origin  3 ; destination node: 20 ; (zone: 7); link (12,13, t=0)---volume = 0.000000 + 1.000000 = 1.000000
+ o_k = 0; t_k=0; origin  3 ; destination node: 20 ; (zone: 7); link (3,12, t=0)---volume = 0.000000 + 1.000000 = 1.000000
+-------------END---------------- 
+------------START: origin:  6  ; Departure time: 0  ; demand type:  0  --------------
+--------origin  6 ; destination node: 1 ; (zone: 1) -------
+--------iteration number outterloop  0 ;  -------
+--------origin  6 ; destination node: 2 ; (zone: 2) -------
+--------iteration number outterloop  0 ;  -------
+--------origin  6 ; destination node: 3 ; (zone: 3) -------
+--------iteration number outterloop  0 ;  -------
+--------origin  6 ; destination node: 6 ; (zone: 4) -------
+--------iteration number outterloop  0 ;  -------
+--------origin  6 ; destination node: 12 ; (zone: 5) -------
+--------iteration number outterloop  0 ;  -------
+--------origin  6 ; destination node: 18 ; (zone: 6) -------
+--------iteration number outterloop  0 ;  -------
+
+ o_k = 0; t_k=0; origin  6 ; destination node: 18 ; (zone: 6); link (7,18, t=0)---volume = 2.000000 + 1.000000 = 3.000000
+ o_k = 0; t_k=0; origin  6 ; destination node: 18 ; (zone: 6); link (8,7, t=0)---volume = 2.000000 + 1.000000 = 3.000000
+ o_k = 0; t_k=0; origin  6 ; destination node: 18 ; (zone: 6); link (6,8, t=0)---volume = 2.000000 + 1.000000 = 3.000000
+--------origin  6 ; destination node: 20 ; (zone: 7) -------
+--------iteration number outterloop  0 ;  -------
+-------------END---------------- 
+-------Iteration 1 -------
+------------START: origin:  1  ; Departure time: 0  ; demand type:  0  --------------
+--------origin  1 ; destination node: 1 ; (zone: 1) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  1 ; destination node: 2 ; (zone: 2) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  1 ; destination node: 3 ; (zone: 3) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  1 ; destination node: 6 ; (zone: 4) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  1 ; destination node: 12 ; (zone: 5) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  1 ; destination node: 18 ; (zone: 6) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  1 ; destination node: 20 ; (zone: 7) -------
+--------iteration number outterloop  1 ;  -------
+
+ o_k = 1; t_k=0; origin  1 ; destination node: 20 ; (zone: 7); link (18,20, t=0)---volume = 0.000000 + 0.500000 = 0.500000
+ o_k = 1; t_k=0; origin  1 ; destination node: 20 ; (zone: 7); link (7,18, t=0)---volume = 0.000000 + 0.500000 = 0.500000
+ o_k = 1; t_k=0; origin  1 ; destination node: 20 ; (zone: 7); link (8,7, t=0)---volume = 0.000000 + 0.500000 = 0.500000
+ o_k = 1; t_k=0; origin  1 ; destination node: 20 ; (zone: 7); link (6,8, t=0)---volume = 0.000000 + 0.500000 = 0.500000
+ o_k = 1; t_k=0; origin  1 ; destination node: 20 ; (zone: 7); link (2,6, t=0)---volume = 0.000000 + 0.500000 = 0.500000
+ o_k = 1; t_k=0; origin  1 ; destination node: 20 ; (zone: 7); link (1,2, t=0)---volume = 0.000000 + 0.500000 = 0.500000
+-------------END---------------- 
+------------START: origin:  2  ; Departure time: 0  ; demand type:  0  --------------
+--------origin  2 ; destination node: 1 ; (zone: 1) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  2 ; destination node: 2 ; (zone: 2) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  2 ; destination node: 3 ; (zone: 3) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  2 ; destination node: 6 ; (zone: 4) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  2 ; destination node: 12 ; (zone: 5) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  2 ; destination node: 18 ; (zone: 6) -------
+--------iteration number outterloop  1 ;  -------
+
+ o_k = 1; t_k=0; origin  2 ; destination node: 18 ; (zone: 6); link (7,18, t=0)---volume = 0.500000 + 0.500000 = 1.000000
+ o_k = 1; t_k=0; origin  2 ; destination node: 18 ; (zone: 6); link (8,7, t=0)---volume = 0.500000 + 0.500000 = 1.000000
+ o_k = 1; t_k=0; origin  2 ; destination node: 18 ; (zone: 6); link (6,8, t=0)---volume = 0.500000 + 0.500000 = 1.000000
+ o_k = 1; t_k=0; origin  2 ; destination node: 18 ; (zone: 6); link (2,6, t=0)---volume = 0.500000 + 0.500000 = 1.000000
+--------origin  2 ; destination node: 20 ; (zone: 7) -------
+--------iteration number outterloop  1 ;  -------
+-------------END---------------- 
+------------START: origin:  3  ; Departure time: 0  ; demand type:  0  --------------
+--------origin  3 ; destination node: 1 ; (zone: 1) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  3 ; destination node: 2 ; (zone: 2) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  3 ; destination node: 3 ; (zone: 3) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  3 ; destination node: 6 ; (zone: 4) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  3 ; destination node: 12 ; (zone: 5) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  3 ; destination node: 18 ; (zone: 6) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  3 ; destination node: 20 ; (zone: 7) -------
+--------iteration number outterloop  1 ;  -------
+
+ o_k = 1; t_k=0; origin  3 ; destination node: 20 ; (zone: 7); link (21,20, t=0)---volume = 0.000000 + 0.500000 = 0.500000
+ o_k = 1; t_k=0; origin  3 ; destination node: 20 ; (zone: 7); link (24,21, t=0)---volume = 0.000000 + 0.500000 = 0.500000
+ o_k = 1; t_k=0; origin  3 ; destination node: 20 ; (zone: 7); link (13,24, t=0)---volume = 0.000000 + 0.500000 = 0.500000
+ o_k = 1; t_k=0; origin  3 ; destination node: 20 ; (zone: 7); link (12,13, t=0)---volume = 0.000000 + 0.500000 = 0.500000
+ o_k = 1; t_k=0; origin  3 ; destination node: 20 ; (zone: 7); link (3,12, t=0)---volume = 0.000000 + 0.500000 = 0.500000
+-------------END---------------- 
+------------START: origin:  6  ; Departure time: 0  ; demand type:  0  --------------
+--------origin  6 ; destination node: 1 ; (zone: 1) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  6 ; destination node: 2 ; (zone: 2) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  6 ; destination node: 3 ; (zone: 3) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  6 ; destination node: 6 ; (zone: 4) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  6 ; destination node: 12 ; (zone: 5) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  6 ; destination node: 18 ; (zone: 6) -------
+--------iteration number outterloop  1 ;  -------
+
+ o_k = 1; t_k=0; origin  6 ; destination node: 18 ; (zone: 6); link (7,18, t=0)---volume = 1.000000 + 0.500000 = 1.500000
+ o_k = 1; t_k=0; origin  6 ; destination node: 18 ; (zone: 6); link (8,7, t=0)---volume = 1.000000 + 0.500000 = 1.500000
+ o_k = 1; t_k=0; origin  6 ; destination node: 18 ; (zone: 6); link (6,8, t=0)---volume = 1.000000 + 0.500000 = 1.500000
+--------origin  6 ; destination node: 20 ; (zone: 7) -------
+--------iteration number outterloop  1 ;  -------
+-------------END---------------- 
+------------START: origin:  1  ; Departure time: 0  ; demand type:  0  --------------
+--------origin  1 ; destination node: 1 ; (zone: 1) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  1 ; destination node: 2 ; (zone: 2) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  1 ; destination node: 3 ; (zone: 3) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  1 ; destination node: 6 ; (zone: 4) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  1 ; destination node: 12 ; (zone: 5) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  1 ; destination node: 18 ; (zone: 6) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  1 ; destination node: 20 ; (zone: 7) -------
+--------iteration number outterloop  1 ;  -------
+
+ o_k = 1; t_k=1; origin  1 ; destination node: 20 ; (zone: 7); link (18,20, t=0)---volume = 0.500000 + 0.500000 = 1.000000
+ o_k = 1; t_k=1; origin  1 ; destination node: 20 ; (zone: 7); link (7,18, t=0)---volume = 1.500000 + 0.500000 = 2.000000
+ o_k = 1; t_k=1; origin  1 ; destination node: 20 ; (zone: 7); link (8,7, t=0)---volume = 1.500000 + 0.500000 = 2.000000
+ o_k = 1; t_k=1; origin  1 ; destination node: 20 ; (zone: 7); link (6,8, t=0)---volume = 1.500000 + 0.500000 = 2.000000
+ o_k = 1; t_k=1; origin  1 ; destination node: 20 ; (zone: 7); link (2,6, t=0)---volume = 1.000000 + 0.500000 = 1.500000
+ o_k = 1; t_k=1; origin  1 ; destination node: 20 ; (zone: 7); link (1,2, t=0)---volume = 0.500000 + 0.500000 = 1.000000
+-------------END---------------- 
+------------START: origin:  2  ; Departure time: 0  ; demand type:  0  --------------
+--------origin  2 ; destination node: 1 ; (zone: 1) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  2 ; destination node: 2 ; (zone: 2) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  2 ; destination node: 3 ; (zone: 3) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  2 ; destination node: 6 ; (zone: 4) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  2 ; destination node: 12 ; (zone: 5) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  2 ; destination node: 18 ; (zone: 6) -------
+--------iteration number outterloop  1 ;  -------
+
+ o_k = 1; t_k=1; origin  2 ; destination node: 18 ; (zone: 6); link (7,18, t=0)---volume = 2.000000 + 0.500000 = 2.500000
+ o_k = 1; t_k=1; origin  2 ; destination node: 18 ; (zone: 6); link (8,7, t=0)---volume = 2.000000 + 0.500000 = 2.500000
+ o_k = 1; t_k=1; origin  2 ; destination node: 18 ; (zone: 6); link (6,8, t=0)---volume = 2.000000 + 0.500000 = 2.500000
+ o_k = 1; t_k=1; origin  2 ; destination node: 18 ; (zone: 6); link (2,6, t=0)---volume = 1.500000 + 0.500000 = 2.000000
+--------origin  2 ; destination node: 20 ; (zone: 7) -------
+--------iteration number outterloop  1 ;  -------
+-------------END---------------- 
+------------START: origin:  3  ; Departure time: 0  ; demand type:  0  --------------
+--------origin  3 ; destination node: 1 ; (zone: 1) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  3 ; destination node: 2 ; (zone: 2) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  3 ; destination node: 3 ; (zone: 3) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  3 ; destination node: 6 ; (zone: 4) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  3 ; destination node: 12 ; (zone: 5) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  3 ; destination node: 18 ; (zone: 6) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  3 ; destination node: 20 ; (zone: 7) -------
+--------iteration number outterloop  1 ;  -------
+
+ o_k = 1; t_k=1; origin  3 ; destination node: 20 ; (zone: 7); link (21,20, t=0)---volume = 0.500000 + 0.500000 = 1.000000
+ o_k = 1; t_k=1; origin  3 ; destination node: 20 ; (zone: 7); link (24,21, t=0)---volume = 0.500000 + 0.500000 = 1.000000
+ o_k = 1; t_k=1; origin  3 ; destination node: 20 ; (zone: 7); link (13,24, t=0)---volume = 0.500000 + 0.500000 = 1.000000
+ o_k = 1; t_k=1; origin  3 ; destination node: 20 ; (zone: 7); link (12,13, t=0)---volume = 0.500000 + 0.500000 = 1.000000
+ o_k = 1; t_k=1; origin  3 ; destination node: 20 ; (zone: 7); link (3,12, t=0)---volume = 0.500000 + 0.500000 = 1.000000
+-------------END---------------- 
+------------START: origin:  6  ; Departure time: 0  ; demand type:  0  --------------
+--------origin  6 ; destination node: 1 ; (zone: 1) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  6 ; destination node: 2 ; (zone: 2) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  6 ; destination node: 3 ; (zone: 3) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  6 ; destination node: 6 ; (zone: 4) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  6 ; destination node: 12 ; (zone: 5) -------
+--------iteration number outterloop  1 ;  -------
+--------origin  6 ; destination node: 18 ; (zone: 6) -------
+--------iteration number outterloop  1 ;  -------
+
+ o_k = 1; t_k=1; origin  6 ; destination node: 18 ; (zone: 6); link (7,18, t=0)---volume = 2.500000 + 0.500000 = 3.000000
+ o_k = 1; t_k=1; origin  6 ; destination node: 18 ; (zone: 6); link (8,7, t=0)---volume = 2.500000 + 0.500000 = 3.000000
+ o_k = 1; t_k=1; origin  6 ; destination node: 18 ; (zone: 6); link (6,8, t=0)---volume = 2.500000 + 0.500000 = 3.000000
+--------origin  6 ; destination node: 20 ; (zone: 7) -------
+--------iteration number outterloop  1 ;  -------
+-------------END---------------- 
+CPU Running Time for assignment=  ,5, milliseconds
+CPU Running Time for Reassignment=  ,5, milliseconds

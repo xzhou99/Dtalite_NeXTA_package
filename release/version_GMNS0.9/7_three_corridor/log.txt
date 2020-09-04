@@ -1,0 +1,246 @@
+Logging Time: 2020/9/2_16:3:44:641---------------------------------------
+Logging Time: 2020/9/2_16:4:12:858---------------------------------------
+Logging Time: 2020/9/2_16:5:27:158---------------------------------------
+Logging Time: 2020/9/2_16:13:54:28---------------------------------------
+Logging Time: 2020/9/2_16:29:26:474---------------------------------------
+Logging Time: 2020/9/2_16:40:25:904---------------------------------------
+Logging Time: 2020/9/2_16:40:47:945---------------------------------------
+Logging Time: 2020/9/2_16:45:2:48---------------------------------------
+Logging Time: 2020/9/2_16:45:48:412---------------------------------------
+Logging Time: 2020/9/2_16:48:19:981---------------------------------------
+Logging Time: 2020/9/2_16:48:59:757---------------------------------------
+Logging Time: 2020/9/2_16:49:18:565---------------------------------------
+Logging Time: 2020/9/2_16:51:9:273---------------------------------------
+Logging Time: 2020/9/2_16:54:36:344---------------------------------------
+Logging Time: 2020/9/2_16:55:54:596---------------------------------------
+Logging Time: 2020/9/2_16:56:6:110---------------------------------------
+Logging Time: 2020/9/2_17:1:1:352---------------------------------------
+Logging Time: 2020/9/2_17:1:26:667---------------------------------------
+Logging Time: 2020/9/2_17:4:9:432---------------------------------------
+Logging Time: 2020/9/2_17:4:59:839---------------------------------------
+Logging Time: 2020/9/2_17:5:31:670---------------------------------------
+Logging Time: 2020/9/2_22:28:47:844---------------------------------------
+Logging Time: 2020/9/2_22:29:9:915---------------------------------------
+Logging Time: 2020/9/3_9:45:41:873---------------------------------------
+Logging Time: 2020/9/3_16:1:56:371---------------------------------------
+Logging Time: 2020/9/3_16:18:4:941---------------------------------------
+Logging Time: 2020/9/3_16:21:0:118---------------------------------------
+Logging Time: 2020/9/3_16:22:29:892---------------------------------------
+Logging Time: 2020/9/3_16:22:43:638---------------------------------------
+Logging Time: 2020/9/3_16:24:20:595---------------------------------------
+Logging Time: 2020/9/3_16:24:43:259---------------------------------------
+Logging Time: 2020/9/3_16:30:39:847---------------------------------------
+Logging Time: 2020/9/3_16:31:25:298---------------------------------------
+Logging Time: 2020/9/3_16:33:15:118---------------------------------------
+Logging Time: 2020/9/3_16:35:19:7---------------------------------------
+Logging Time: 2020/9/3_16:35:37:233---------------------------------------
+Logging Time: 2020/9/3_16:57:30:213---------------------------------------
+Logging Time: 2020/9/3_17:40:47:933---------------------------------------
+Logging Time: 2020/9/3_17:44:49:491---------------------------------------
+Logging Time: 2020/9/3_17:45:7:421---------------------------------------
+Logging Time: 2020/9/3_17:45:27:300---------------------------------------
+Logging Time: 2020/9/3_18:17:29:216---------------------------------------
+Logging Time: 2020/9/3_18:19:5:694---------------------------------------
+Logging Time: 2020/9/3_22:8:42:525---------------------------------------
+Logging Time: 2020/9/3_22:10:10:929---------------------------------------
+Logging Time: 2020/9/3_22:10:18:678---------------------------------------
+Logging Time: 2020/9/3_22:19:3:874---------------------------------------
+Info_ID: 0| Info_Type: MSG 	| Info: --Number of Nodes = 40
+Logging Time: 2020/9/3_22:20:38:725---------------------------------------
+Info_ID: 0| Info_Type: MSG 	| Info: --Number of Nodes = 40
+Info_ID: 1| Info_Type: MSG 	| Info: --Number of Links = 55
+Info_ID: 2| Info_Type: MSG 	| Info: ++++++++++++++++++++++++++++++Start Signal Main Node ID 1:
+Info_ID: 3| Info_Type: MSG 	| Info: Data Loading : Movement Volume of Main Node
+Logging Time: 2020/9/3_22:21:35:650---------------------------------------
+Info_ID: 0| Info_Type: MSG 	| Info: --Number of Nodes = 40
+Info_ID: 1| Info_Type: MSG 	| Info: --Number of Links = 55
+Info_ID: 2| Info_Type: MSG 	| Info: ++++++++++++++++++++++++++++++Start Signal Main Node ID 1:
+Info_ID: 3| Info_Type: MSG 	| Info: Data Loading : Movement Volume of Main Node
+Info_ID: 4| Info_Type: MSG 	| Info: Step 2: Perform QEM
+Info_ID: 5| Info_Type: MSG 	| Info: --Step 2.1: Set Left Turn Treatments
+Info_ID: 6| Info_Type: MSG 	| Info: --Step 2.2: Set StageNos
+Info_ID: 7| Info_Type: MSG 	| Info: ----Main Approaches: E & W
+Info_ID: 8| Info_Type: OUT 	| Info: ----Number of Stages: 2
+Info_ID: 9| Info_Type: OUT 	| Info: ------StageNo of Movement_EBT: Stage_1
+Info_ID: 10| Info_Type: OUT 	| Info: ------StageNo of Movement_WBT: Stage_1
+Info_ID: 11| Info_Type: OUT 	| Info: ------StageNo of Movement_NBT: Stage_2
+Info_ID: 12| Info_Type: OUT 	| Info: ------StageNo of Movement_SBT: Stage_2
+Info_ID: 13| Info_Type: MSG 	| Info: --Step 2.3: Set Saturation Flow Rate Matrix
+Info_ID: 14| Info_Type: OUT 	| Info: ----Saturation Flow Rate of Movement_EBT and Stage_1: 3060.000000
+Info_ID: 15| Info_Type: OUT 	| Info: ----Saturation Flow Rate of Movement_WBT and Stage_1: 4590.000000
+Info_ID: 16| Info_Type: OUT 	| Info: ----Saturation Flow Rate of Movement_NBT and Stage_2: 4590.000000
+Info_ID: 17| Info_Type: OUT 	| Info: ----Saturation Flow Rate of Movement_SBT and Stage_2: 4590.000000
+Info_ID: 18| Info_Type: MSG 	| Info: --Step 2.4: Calculate Flow Ratio
+Info_ID: 19| Info_Type: OUT 	| Info: ----Max y Value: 9.368192
+Info_ID: 20| Info_Type: MSG 	| Info: --Step 2.5: Calculate Total Cycle Lost Time
+Info_ID: 21| Info_Type: OUT 	| Info: ----Total Cycle Lost Time: 8.000000
+Info_ID: 22| Info_Type: MSG 	| Info: --Step 2.6: Calculate the Minimum and Optimal Cycle Length
+Info_ID: 23| Info_Type: OUT 	| Info: ----Min Cycle Length: 60.000000
+Info_ID: 24| Info_Type: OUT 	| Info: ----Optimal Cycle Length: 60.000000
+Info_ID: 25| Info_Type: MSG 	| Info: --Step 2.7: Recalculate xc
+Info_ID: 26| Info_Type: OUT 	| Info: ----Recalculated xc: 10.809452
+Info_ID: 27| Info_Type: MSG 	| Info: --Step 2.8: Timing for Stages
+Info_ID: 28| Info_Type: OUT 	| Info: ----Green Time of Stage 1: 54.000000
+Info_ID: 29| Info_Type: OUT 	| Info: ------Start Green Time of Stage 1: 0.000000
+Info_ID: 30| Info_Type: OUT 	| Info: ------End Green Time of Stage 1: 54.000000
+Info_ID: 31| Info_Type: OUT 	| Info: ----Green Time of Stage 2: 6.000000
+Info_ID: 32| Info_Type: OUT 	| Info: ------Start Green Time of Stage 2: 54.000000
+Info_ID: 33| Info_Type: OUT 	| Info: ------End Green Time of Stage 2: 60.000000
+Info_ID: 34| Info_Type: OUT 	| Info: ----Effective Green Time of Stage 1: 56.000000
+Info_ID: 35| Info_Type: OUT 	| Info: ------Start Effective Green Time of Stage 1: 0.000000
+Info_ID: 36| Info_Type: OUT 	| Info: ------End Effective Green Time of Stage 1: 56.000000
+Info_ID: 37| Info_Type: OUT 	| Info: ----Effective Green Time of Stage 2: 8.000000
+Info_ID: 38| Info_Type: OUT 	| Info: ------Start Effective Green Time of Stage 2: 56.000000
+Info_ID: 39| Info_Type: OUT 	| Info: ------End Effective Green Time of Stage 2: 64.000000
+Info_ID: 40| Info_Type: MSG 	| Info: --Step 2.9: Calculate capacity and ratio V/C
+Info_ID: 41| Info_Type: OUT 	| Info: ----a. Capacity of Stage_1 and Movement_EBT: 2856.000000
+Info_ID: 42| Info_Type: OUT 	| Info: ----b. V/C of Stage_1 and Movement_EBT: 9.103641
+Info_ID: 43| Info_Type: OUT 	| Info: ----a. Capacity of Stage_1 and Movement_WBT: 4284.000000
+Info_ID: 44| Info_Type: OUT 	| Info: ----b. V/C of Stage_1 and Movement_WBT: 0.000000
+Info_ID: 45| Info_Type: OUT 	| Info: ----a. Capacity of Stage_2 and Movement_NBT: 612.000000
+Info_ID: 46| Info_Type: OUT 	| Info: ----b. V/C of Stage_2 and Movement_NBT: 6.535948
+Info_ID: 47| Info_Type: OUT 	| Info: ----a. Capacity of Stage_2 and Movement_SBT: 612.000000
+Info_ID: 48| Info_Type: OUT 	| Info: ----b. V/C of Stage_2 and Movement_SBT: 6.535948
+Info_ID: 49| Info_Type: MSG 	| Info: --Step 2.10: Calculate Signal Delay
+Info_ID: 50| Info_Type: OUT 	| Info: ----Average Uniform Delay of Stage_1 and Movement_EBT: -0.846591
+Info_ID: 51| Info_Type: OUT 	| Info: ----Average Uniform Delay of Stage_1 and Movement_WBT: 9.520000
+Info_ID: 52| Info_Type: OUT 	| Info: ----Average Uniform Delay of Stage_2 and Movement_NBT: 1788.077288
+Info_ID: 53| Info_Type: OUT 	| Info: ----Average Uniform Delay of Stage_2 and Movement_SBT: 1788.077288
+Info_ID: 54| Info_Type: OUT 	| Info: ----Average Delay of Approach_E: -0.846591
+Info_ID: 55| Info_Type: OUT 	| Info: ----Average Delay of Approach_N: 1788.077288
+Info_ID: 56| Info_Type: OUT 	| Info: ----Average Delay of Approach_S: 1788.077288
+Info_ID: 57| Info_Type: OUT 	| Info: ----Total Delay of Intersection_NodeID_1: 14282606.936297
+Info_ID: 58| Info_Type: OUT 	| Info: ----Average Delay of Intersection_NodeID_1: 420.076675
+Info_ID: 59| Info_Type: MSG 	| Info: --Step 2.11: evaluate LOS
+Info_ID: 60| Info_Type: OUT 	| Info: ----LOS of Intersection_NodeID_1: F
+Info_ID: 61| Info_Type: MSG 	| Info: ++++++++++++++++++++++++++++++End Signal Main Node ID 1
+Info_ID: 62| Info_Type: MSG 	| Info: -----------------------Finished----------------------- 
+Logging Time: 2020/9/3_22:24:41:970---------------------------------------
+Info_ID: 0| Info_Type: MSG 	| Info: --Number of Nodes = 40
+Info_ID: 1| Info_Type: MSG 	| Info: --Number of Links = 55
+Info_ID: 2| Info_Type: MSG 	| Info: ++++++++++++++++++++++++++++++Start Signal Main Node ID 1:
+Info_ID: 3| Info_Type: MSG 	| Info: Data Loading : Movement Volume of Main Node
+Info_ID: 4| Info_Type: MSG 	| Info: Step 2: Perform QEM
+Info_ID: 5| Info_Type: MSG 	| Info: --Step 2.1: Set Left Turn Treatments
+Info_ID: 6| Info_Type: MSG 	| Info: --Step 2.2: Set StageNos
+Info_ID: 7| Info_Type: MSG 	| Info: ----Main Approaches: E & W
+Info_ID: 8| Info_Type: OUT 	| Info: ----Number of Stages: 2
+Info_ID: 9| Info_Type: OUT 	| Info: ------StageNo of Movement_EBT: Stage_1
+Info_ID: 10| Info_Type: OUT 	| Info: ------StageNo of Movement_WBT: Stage_1
+Info_ID: 11| Info_Type: OUT 	| Info: ------StageNo of Movement_NBT: Stage_2
+Info_ID: 12| Info_Type: OUT 	| Info: ------StageNo of Movement_SBT: Stage_2
+Info_ID: 13| Info_Type: MSG 	| Info: --Step 2.3: Set Saturation Flow Rate Matrix
+Info_ID: 14| Info_Type: OUT 	| Info: ----Saturation Flow Rate of Movement_EBT and Stage_1: 3060.000000
+Info_ID: 15| Info_Type: OUT 	| Info: ----Saturation Flow Rate of Movement_WBT and Stage_1: 4590.000000
+Info_ID: 16| Info_Type: OUT 	| Info: ----Saturation Flow Rate of Movement_NBT and Stage_2: 4590.000000
+Info_ID: 17| Info_Type: OUT 	| Info: ----Saturation Flow Rate of Movement_SBT and Stage_2: 4590.000000
+Info_ID: 18| Info_Type: MSG 	| Info: --Step 2.4: Calculate Flow Ratio
+Info_ID: 19| Info_Type: OUT 	| Info: ----Max y Value: 9.368192
+Info_ID: 20| Info_Type: MSG 	| Info: --Step 2.5: Calculate Total Cycle Lost Time
+Info_ID: 21| Info_Type: OUT 	| Info: ----Total Cycle Lost Time: 8.000000
+Info_ID: 22| Info_Type: MSG 	| Info: --Step 2.6: Calculate the Minimum and Optimal Cycle Length
+Info_ID: 23| Info_Type: OUT 	| Info: ----Min Cycle Length: 60.000000
+Info_ID: 24| Info_Type: OUT 	| Info: ----Optimal Cycle Length: 60.000000
+Info_ID: 25| Info_Type: MSG 	| Info: --Step 2.7: Recalculate xc
+Info_ID: 26| Info_Type: OUT 	| Info: ----Recalculated xc: 10.809452
+Info_ID: 27| Info_Type: MSG 	| Info: --Step 2.8: Timing for Stages
+Info_ID: 28| Info_Type: OUT 	| Info: ----Green Time of Stage 1: 54.000000
+Info_ID: 29| Info_Type: OUT 	| Info: ------Start Green Time of Stage 1: 0.000000
+Info_ID: 30| Info_Type: OUT 	| Info: ------End Green Time of Stage 1: 54.000000
+Info_ID: 31| Info_Type: OUT 	| Info: ----Green Time of Stage 2: 6.000000
+Info_ID: 32| Info_Type: OUT 	| Info: ------Start Green Time of Stage 2: 54.000000
+Info_ID: 33| Info_Type: OUT 	| Info: ------End Green Time of Stage 2: 60.000000
+Info_ID: 34| Info_Type: OUT 	| Info: ----Effective Green Time of Stage 1: 56.000000
+Info_ID: 35| Info_Type: OUT 	| Info: ------Start Effective Green Time of Stage 1: 0.000000
+Info_ID: 36| Info_Type: OUT 	| Info: ------End Effective Green Time of Stage 1: 56.000000
+Info_ID: 37| Info_Type: OUT 	| Info: ----Effective Green Time of Stage 2: 8.000000
+Info_ID: 38| Info_Type: OUT 	| Info: ------Start Effective Green Time of Stage 2: 56.000000
+Info_ID: 39| Info_Type: OUT 	| Info: ------End Effective Green Time of Stage 2: 64.000000
+Info_ID: 40| Info_Type: MSG 	| Info: --Step 2.9: Calculate capacity and ratio V/C
+Info_ID: 41| Info_Type: OUT 	| Info: ----a. Capacity of Stage_1 and Movement_EBT: 2856.000000
+Info_ID: 42| Info_Type: OUT 	| Info: ----b. V/C of Stage_1 and Movement_EBT: 9.103641
+Info_ID: 43| Info_Type: OUT 	| Info: ----a. Capacity of Stage_1 and Movement_WBT: 4284.000000
+Info_ID: 44| Info_Type: OUT 	| Info: ----b. V/C of Stage_1 and Movement_WBT: 0.000000
+Info_ID: 45| Info_Type: OUT 	| Info: ----a. Capacity of Stage_2 and Movement_NBT: 612.000000
+Info_ID: 46| Info_Type: OUT 	| Info: ----b. V/C of Stage_2 and Movement_NBT: 6.535948
+Info_ID: 47| Info_Type: OUT 	| Info: ----a. Capacity of Stage_2 and Movement_SBT: 612.000000
+Info_ID: 48| Info_Type: OUT 	| Info: ----b. V/C of Stage_2 and Movement_SBT: 6.535948
+Info_ID: 49| Info_Type: MSG 	| Info: --Step 2.10: Calculate Signal Delay
+Info_ID: 50| Info_Type: OUT 	| Info: ----Average Uniform Delay of Stage_1 and Movement_EBT: -0.846591
+Info_ID: 51| Info_Type: OUT 	| Info: ----Average Uniform Delay of Stage_1 and Movement_WBT: 9.520000
+Info_ID: 52| Info_Type: OUT 	| Info: ----Average Uniform Delay of Stage_2 and Movement_NBT: 1788.077288
+Info_ID: 53| Info_Type: OUT 	| Info: ----Average Uniform Delay of Stage_2 and Movement_SBT: 1788.077288
+Info_ID: 54| Info_Type: OUT 	| Info: ----Average Delay of Approach_E: -0.846591
+Info_ID: 55| Info_Type: OUT 	| Info: ----Average Delay of Approach_N: 1788.077288
+Info_ID: 56| Info_Type: OUT 	| Info: ----Average Delay of Approach_S: 1788.077288
+Info_ID: 57| Info_Type: OUT 	| Info: ----Total Delay of Intersection_NodeID_1: 14282606.936297
+Info_ID: 58| Info_Type: OUT 	| Info: ----Average Delay of Intersection_NodeID_1: 420.076675
+Info_ID: 59| Info_Type: MSG 	| Info: --Step 2.11: evaluate LOS
+Info_ID: 60| Info_Type: OUT 	| Info: ----LOS of Intersection_NodeID_1: F
+Info_ID: 61| Info_Type: MSG 	| Info: ++++++++++++++++++++++++++++++End Signal Main Node ID 1
+Info_ID: 62| Info_Type: MSG 	| Info: -----------------------Finished----------------------- 
+Logging Time: 2020/9/3_22:25:17:306---------------------------------------
+Info_ID: 0| Info_Type: MSG 	| Info: --Number of Nodes = 40
+Info_ID: 1| Info_Type: MSG 	| Info: --Number of Links = 55
+Info_ID: 2| Info_Type: MSG 	| Info: ++++++++++++++++++++++++++++++Start Signal Main Node ID 1:
+Info_ID: 3| Info_Type: MSG 	| Info: Data Loading : Movement Volume of Main Node
+Info_ID: 4| Info_Type: MSG 	| Info: Step 2: Perform QEM
+Info_ID: 5| Info_Type: MSG 	| Info: --Step 2.1: Set Left Turn Treatments
+Info_ID: 6| Info_Type: MSG 	| Info: --Step 2.2: Set StageNos
+Info_ID: 7| Info_Type: MSG 	| Info: ----Main Approaches: E & W
+Info_ID: 8| Info_Type: OUT 	| Info: ----Number of Stages: 2
+Info_ID: 9| Info_Type: OUT 	| Info: ------StageNo of Movement_EBT: Stage_1
+Info_ID: 10| Info_Type: OUT 	| Info: ------StageNo of Movement_WBT: Stage_1
+Info_ID: 11| Info_Type: OUT 	| Info: ------StageNo of Movement_NBT: Stage_2
+Info_ID: 12| Info_Type: OUT 	| Info: ------StageNo of Movement_SBT: Stage_2
+Info_ID: 13| Info_Type: MSG 	| Info: --Step 2.3: Set Saturation Flow Rate Matrix
+Info_ID: 14| Info_Type: OUT 	| Info: ----Saturation Flow Rate of Movement_EBT and Stage_1: 3060.000000
+Info_ID: 15| Info_Type: OUT 	| Info: ----Saturation Flow Rate of Movement_WBT and Stage_1: 4590.000000
+Info_ID: 16| Info_Type: OUT 	| Info: ----Saturation Flow Rate of Movement_NBT and Stage_2: 4590.000000
+Info_ID: 17| Info_Type: OUT 	| Info: ----Saturation Flow Rate of Movement_SBT and Stage_2: 4590.000000
+Info_ID: 18| Info_Type: MSG 	| Info: --Step 2.4: Calculate Flow Ratio
+Info_ID: 19| Info_Type: OUT 	| Info: ----Max y Value: 9.368192
+Info_ID: 20| Info_Type: MSG 	| Info: --Step 2.5: Calculate Total Cycle Lost Time
+Info_ID: 21| Info_Type: OUT 	| Info: ----Total Cycle Lost Time: 8.000000
+Info_ID: 22| Info_Type: MSG 	| Info: --Step 2.6: Calculate the Minimum and Optimal Cycle Length
+Info_ID: 23| Info_Type: OUT 	| Info: ----Min Cycle Length: 60.000000
+Info_ID: 24| Info_Type: OUT 	| Info: ----Optimal Cycle Length: 60.000000
+Info_ID: 25| Info_Type: MSG 	| Info: --Step 2.7: Recalculate xc
+Info_ID: 26| Info_Type: OUT 	| Info: ----Recalculated xc: 10.809452
+Info_ID: 27| Info_Type: MSG 	| Info: --Step 2.8: Timing for Stages
+Info_ID: 28| Info_Type: OUT 	| Info: ----Green Time of Stage 1: 54.000000
+Info_ID: 29| Info_Type: OUT 	| Info: ------Start Green Time of Stage 1: 0.000000
+Info_ID: 30| Info_Type: OUT 	| Info: ------End Green Time of Stage 1: 54.000000
+Info_ID: 31| Info_Type: OUT 	| Info: ----Green Time of Stage 2: 6.000000
+Info_ID: 32| Info_Type: OUT 	| Info: ------Start Green Time of Stage 2: 54.000000
+Info_ID: 33| Info_Type: OUT 	| Info: ------End Green Time of Stage 2: 60.000000
+Info_ID: 34| Info_Type: OUT 	| Info: ----Effective Green Time of Stage 1: 56.000000
+Info_ID: 35| Info_Type: OUT 	| Info: ------Start Effective Green Time of Stage 1: 0.000000
+Info_ID: 36| Info_Type: OUT 	| Info: ------End Effective Green Time of Stage 1: 56.000000
+Info_ID: 37| Info_Type: OUT 	| Info: ----Effective Green Time of Stage 2: 8.000000
+Info_ID: 38| Info_Type: OUT 	| Info: ------Start Effective Green Time of Stage 2: 56.000000
+Info_ID: 39| Info_Type: OUT 	| Info: ------End Effective Green Time of Stage 2: 64.000000
+Info_ID: 40| Info_Type: MSG 	| Info: --Step 2.9: Calculate capacity and ratio V/C
+Info_ID: 41| Info_Type: OUT 	| Info: ----a. Capacity of Stage_1 and Movement_EBT: 2856.000000
+Info_ID: 42| Info_Type: OUT 	| Info: ----b. V/C of Stage_1 and Movement_EBT: 9.103641
+Info_ID: 43| Info_Type: OUT 	| Info: ----a. Capacity of Stage_1 and Movement_WBT: 4284.000000
+Info_ID: 44| Info_Type: OUT 	| Info: ----b. V/C of Stage_1 and Movement_WBT: 0.000000
+Info_ID: 45| Info_Type: OUT 	| Info: ----a. Capacity of Stage_2 and Movement_NBT: 612.000000
+Info_ID: 46| Info_Type: OUT 	| Info: ----b. V/C of Stage_2 and Movement_NBT: 6.535948
+Info_ID: 47| Info_Type: OUT 	| Info: ----a. Capacity of Stage_2 and Movement_SBT: 612.000000
+Info_ID: 48| Info_Type: OUT 	| Info: ----b. V/C of Stage_2 and Movement_SBT: 6.535948
+Info_ID: 49| Info_Type: MSG 	| Info: --Step 2.10: Calculate Signal Delay
+Info_ID: 50| Info_Type: OUT 	| Info: ----Average Uniform Delay of Stage_1 and Movement_EBT: -0.846591
+Info_ID: 51| Info_Type: OUT 	| Info: ----Average Uniform Delay of Stage_1 and Movement_WBT: 9.520000
+Info_ID: 52| Info_Type: OUT 	| Info: ----Average Uniform Delay of Stage_2 and Movement_NBT: 1788.077288
+Info_ID: 53| Info_Type: OUT 	| Info: ----Average Uniform Delay of Stage_2 and Movement_SBT: 1788.077288
+Info_ID: 54| Info_Type: OUT 	| Info: ----Average Delay of Approach_E: -0.846591
+Info_ID: 55| Info_Type: OUT 	| Info: ----Average Delay of Approach_N: 1788.077288
+Info_ID: 56| Info_Type: OUT 	| Info: ----Average Delay of Approach_S: 1788.077288
+Info_ID: 57| Info_Type: OUT 	| Info: ----Total Delay of Intersection_NodeID_1: 14282606.936297
+Info_ID: 58| Info_Type: OUT 	| Info: ----Average Delay of Intersection_NodeID_1: 420.076675
+Info_ID: 59| Info_Type: MSG 	| Info: --Step 2.11: evaluate LOS
+Info_ID: 60| Info_Type: OUT 	| Info: ----LOS of Intersection_NodeID_1: F
+Info_ID: 61| Info_Type: MSG 	| Info: ++++++++++++++++++++++++++++++End Signal Main Node ID 1
+Info_ID: 62| Info_Type: MSG 	| Info: -----------------------Finished----------------------- 
+Logging Time: 2020/9/4_0:8:9:801---------------------------------------

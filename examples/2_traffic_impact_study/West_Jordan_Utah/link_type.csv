@@ -1,6 +1,0 @@
-link_type,link_type_name,type_code,default_lane_capacity,default_speed_limit,default_number_of_lanes,travel_time_bias_factor
-1,Zone Connector,c,1000,0,0,1
-2,Highway/Expressway,h,1000,0,0,1
-4,Major arterial,a,1000,0,0,1
-5,Minor arterial,a,1000,0,0,1
-3,Principal arterial,a,1000,0,0,1
