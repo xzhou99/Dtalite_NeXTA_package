@@ -1,0 +1,651 @@
+SP iteration k = 0: origin node: 1, agent type 0 
+SP: SE node: 1
+SP: checking from node 1, to node 3  cost = 1.000000
+SP: updating node: 3 current cost: 999999986991104.00, new cost 1.00
+SP: add node 3 into SE List
+SP: checking from node 1, to node 14  cost = 1.000000
+SP: updating node: 14 current cost: 999999986991104.00, new cost 1.00
+SP: add node 14 into SE List
+SP: checking from node 1, to node 30  cost = 1.500000
+SP: updating node: 30 current cost: 999999986991104.00, new cost 1.50
+SP: add node 30 into SE List
+SP: SE node: 3
+SP: checking from node 3, to node 4  cost = 2.000000
+SP: updating node: 4 current cost: 999999986991104.00, new cost 2.00
+SP: add node 4 into SE List
+SP: SE node: 14
+SP: checking from node 14, to node 15  cost = 2.000000
+SP: updating node: 15 current cost: 999999986991104.00, new cost 2.00
+SP: add node 15 into SE List
+SP: SE node: 30
+SP: checking from node 30, to node 31  cost = 3.005000
+SP: updating node: 31 current cost: 999999986991104.00, new cost 3.01
+SP: add node 31 into SE List
+SP: checking from node 30, to node 1  cost = 3.446252
+SP: SE node: 4
+SP: checking from node 4, to node 5  cost = 3.000000
+SP: updating node: 5 current cost: 999999986991104.00, new cost 3.00
+SP: add node 5 into SE List
+SP: checking from node 4, to node 36  cost = 6.000000
+SP: updating node: 36 current cost: 999999986991104.00, new cost 6.00
+SP: add node 36 into SE List
+SP: SE node: 15
+SP: checking from node 15, to node 16  cost = 3.000000
+SP: updating node: 16 current cost: 999999986991104.00, new cost 3.00
+SP: add node 16 into SE List
+SP: SE node: 31
+SP: checking from node 31, to node 32  cost = 4.505000
+SP: updating node: 32 current cost: 999999986991104.00, new cost 4.51
+SP: add node 32 into SE List
+SP: checking from node 31, to node 36  cost = 4.951114
+SP: updating node: 36 current cost: 6.00, new cost 4.95
+SP: add node 36 into SE List
+SP: checking from node 31, to node 37  cost = 5.333794
+SP: updating node: 37 current cost: 999999986991104.00, new cost 5.33
+SP: add node 37 into SE List
+SP: checking from node 31, to node 30  cost = 4.897548
+SP: SE node: 5
+SP: checking from node 5, to node 6  cost = 4.000000
+SP: updating node: 6 current cost: 999999986991104.00, new cost 4.00
+SP: add node 6 into SE List
+SP: SE node: 36
+SP: checking from node 36, to node 31  cost = 9.356113
+SP: SE node: 16
+SP: checking from node 16, to node 17  cost = 4.000000
+SP: updating node: 17 current cost: 999999986991104.00, new cost 4.00
+SP: add node 17 into SE List
+SP: SE node: 32
+SP: checking from node 32, to node 33  cost = 6.005000
+SP: updating node: 33 current cost: 999999986991104.00, new cost 6.01
+SP: add node 33 into SE List
+SP: checking from node 32, to node 31  cost = 6.261317
+SP: SE node: 37
+SP: checking from node 37, to node 31  cost = 7.257587
+SP: SE node: 6
+SP: checking from node 6, to node 7  cost = 5.000000
+SP: updating node: 7 current cost: 999999986991104.00, new cost 5.00
+SP: add node 7 into SE List
+SP: SE node: 17
+SP: checking from node 17, to node 18  cost = 5.000000
+SP: updating node: 18 current cost: 999999986991104.00, new cost 5.00
+SP: add node 18 into SE List
+SP: SE node: 33
+SP: checking from node 33, to node 35  cost = 7.505000
+SP: updating node: 35 current cost: 999999986991104.00, new cost 7.51
+SP: add node 35 into SE List
+SP: checking from node 33, to node 38  cost = 8.296668
+SP: updating node: 38 current cost: 999999986991104.00, new cost 8.30
+SP: add node 38 into SE List
+SP: checking from node 33, to node 39  cost = 8.221169
+SP: updating node: 39 current cost: 999999986991104.00, new cost 8.22
+SP: add node 39 into SE List
+SP: checking from node 33, to node 32  cost = 7.502092
+SP: SE node: 7
+SP: checking from node 7, to node 8  cost = 6.000000
+SP: updating node: 8 current cost: 999999986991104.00, new cost 6.00
+SP: add node 8 into SE List
+SP: SE node: 18
+SP: checking from node 18, to node 19  cost = 6.000000
+SP: updating node: 19 current cost: 999999986991104.00, new cost 6.00
+SP: add node 19 into SE List
+SP: SE node: 35
+SP: checking from node 35, to node 34  cost = 9.005000
+SP: updating node: 34 current cost: 999999986991104.00, new cost 9.01
+SP: add node 34 into SE List
+SP: checking from node 35, to node 40  cost = 9.179720
+SP: updating node: 40 current cost: 999999986991104.00, new cost 9.18
+SP: add node 40 into SE List
+SP: checking from node 35, to node 41  cost = 9.837070
+SP: updating node: 41 current cost: 999999986991104.00, new cost 9.84
+SP: add node 41 into SE List
+SP: checking from node 35, to node 33  cost = 9.355179
+SP: SE node: 38
+SP: checking from node 38, to node 33  cost = 10.588336
+SP: SE node: 39
+SP: checking from node 39, to node 33  cost = 10.437339
+SP: SE node: 8
+SP: checking from node 8, to node 9  cost = 7.000000
+SP: updating node: 9 current cost: 999999986991104.00, new cost 7.00
+SP: add node 9 into SE List
+SP: SE node: 19
+SP: checking from node 19, to node 20  cost = 7.000000
+SP: updating node: 20 current cost: 999999986991104.00, new cost 7.00
+SP: add node 20 into SE List
+SP: SE node: 34
+SP: checking from node 34, to node 2  cost = 12.005000
+SP: updating node: 2 current cost: 999999986991104.00, new cost 12.01
+SP: add node 2 into SE List
+SP: checking from node 34, to node 35  cost = 10.770440
+SP: SE node: 40
+SP: checking from node 40, to node 35  cost = 10.854440
+SP: SE node: 41
+SP: checking from node 41, to node 35  cost = 12.169142
+SP: SE node: 9
+SP: checking from node 9, to node 10  cost = 8.000000
+SP: updating node: 10 current cost: 999999986991104.00, new cost 8.00
+SP: add node 10 into SE List
+SP: SE node: 20
+SP: checking from node 20, to node 21  cost = 8.000000
+SP: updating node: 21 current cost: 999999986991104.00, new cost 8.00
+SP: add node 21 into SE List
+SP: SE node: 2
+SP: checking from node 2, to node 34  cost = 14.349504
+SP: SE node: 10
+SP: checking from node 10, to node 11  cost = 9.000000
+SP: updating node: 11 current cost: 999999986991104.00, new cost 9.00
+SP: add node 11 into SE List
+SP: SE node: 21
+SP: checking from node 21, to node 22  cost = 9.000000
+SP: updating node: 22 current cost: 999999986991104.00, new cost 9.00
+SP: add node 22 into SE List
+SP: SE node: 11
+SP: checking from node 11, to node 12  cost = 10.000000
+SP: updating node: 12 current cost: 999999986991104.00, new cost 10.00
+SP: add node 12 into SE List
+SP: SE node: 22
+SP: checking from node 22, to node 23  cost = 10.000000
+SP: updating node: 23 current cost: 999999986991104.00, new cost 10.00
+SP: add node 23 into SE List
+SP: SE node: 12
+SP: checking from node 12, to node 2  cost = 11.000000
+SP: updating node: 2 current cost: 12.01, new cost 11.00
+SP: add node 2 into SE List
+SP: SE node: 2
+SP: checking from node 2, to node 34  cost = 13.344504
+SP: SE node: 23
+SP: checking from node 23, to node 24  cost = 11.000000
+SP: updating node: 24 current cost: 999999986991104.00, new cost 11.00
+SP: add node 24 into SE List
+SP: SE node: 24
+SP: checking from node 24, to node 25  cost = 12.000000
+SP: updating node: 25 current cost: 999999986991104.00, new cost 12.00
+SP: add node 25 into SE List
+SP: SE node: 25
+SP: checking from node 25, to node 26  cost = 13.000000
+SP: updating node: 26 current cost: 999999986991104.00, new cost 13.00
+SP: add node 26 into SE List
+SP: SE node: 26
+SP: checking from node 26, to node 27  cost = 14.000000
+SP: updating node: 27 current cost: 999999986991104.00, new cost 14.00
+SP: add node 27 into SE List
+SP: SE node: 27
+SP: checking from node 27, to node 28  cost = 15.000000
+SP: updating node: 28 current cost: 999999986991104.00, new cost 15.00
+SP: add node 28 into SE List
+SP: SE node: 28
+SP: checking from node 28, to node 29  cost = 16.000000
+SP: updating node: 29 current cost: 999999986991104.00, new cost 16.00
+SP: add node 29 into SE List
+SP: SE node: 29
+SP: checking from node 29, to node 2  cost = 17.000000
+SPtree at iteration k = 0: origin node: 1, agent type 0 
+SP node: 1, label cost 0.000, time 0.000, node_pred_id -1 
+SP node: 2, label cost 11.000, time 0.000, node_pred_id 12 
+SP node: 3, label cost 1.000, time 0.000, node_pred_id 1 
+SP node: 4, label cost 2.000, time 0.000, node_pred_id 3 
+SP node: 5, label cost 3.000, time 17219861078322305826816.000, node_pred_id 4 
+SP node: 6, label cost 4.000, time 17254464450874834944.000, node_pred_id 5 
+SP node: 7, label cost 5.000, time 67422192063862815064064.000, node_pred_id 6 
+SP node: 8, label cost 6.000, time 0.000, node_pred_id 7 
+SP node: 9, label cost 7.000, time 70071632703047113637888.000, node_pred_id 8 
+SP node: 10, label cost 8.000, time 18063579521430853625239830528.000, node_pred_id 9 
+SP node: 11, label cost 9.000, time 0.000, node_pred_id 10 
+SP node: 12, label cost 10.000, time 70071632703047113637888.000, node_pred_id 11 
+SP node: 14, label cost 1.000, time 75555653809516067877004637110272.000, node_pred_id 1 
+SP node: 15, label cost 2.000, time 284133877301595078656.000, node_pred_id 14 
+SP node: 16, label cost 3.000, time 4836354889475288983949870628864.000, node_pred_id 15 
+SP node: 17, label cost 4.000, time 1109612165083615395877748736.000, node_pred_id 16 
+SP node: 18, label cost 5.000, time 4515668206766535663339700224.000, node_pred_id 17 
+SP node: 19, label cost 6.000, time 67403704787392459177984.000, node_pred_id 18 
+SP node: 20, label cost 7.000, time 0.000, node_pred_id 19 
+SP node: 21, label cost 8.000, time 277139751895916609536.000, node_pred_id 20 
+SP node: 22, label cost 9.000, time 79316120629935642432836082910363648.000, node_pred_id 21 
+SP node: 23, label cost 10.000, time 4600385361062408486912.000, node_pred_id 22 
+SP node: 24, label cost 11.000, time 17284442178380294448488644608.000, node_pred_id 23 
+SP node: 25, label cost 12.000, time 73722037952250351782284326823002112.000, node_pred_id 24 
+SP node: 26, label cost 13.000, time 16531697183821398016.000, node_pred_id 25 
+SP node: 27, label cost 14.000, time 1125794126294576321789952.000, node_pred_id 26 
+SP node: 28, label cost 15.000, time 814173855118153169764352.000, node_pred_id 27 
+SP node: 29, label cost 16.000, time 17748676776662036356043636736.000, node_pred_id 28 
+SP node: 30, label cost 1.500, time 4515668206766535663339700224.000, node_pred_id 1 
+SP node: 31, label cost 3.005, time 71476976463168449544192.000, node_pred_id 30 
+SP node: 32, label cost 4.505, time 18464273092265594117423104.000, node_pred_id 31 
+SP node: 33, label cost 6.005, time 3334627370937441384914747392.000, node_pred_id 32 
+SP node: 34, label cost 9.005, time 17179368906209361920.000, node_pred_id 35 
+SP node: 35, label cost 7.505, time 67422192063862815064064.000, node_pred_id 33 
+SP node: 36, label cost 4.951, time 0.000, node_pred_id 31 
+SP node: 37, label cost 5.334, time 1064680567581534842781696.000, node_pred_id 31 
+SP node: 38, label cost 8.297, time 73401617022736594805626765312.000, node_pred_id 33 
+SP node: 39, label cost 8.221, time 70067030024227940990976.000, node_pred_id 33 
+SP node: 40, label cost 9.180, time 17703913483660380920541593206784.000, node_pred_id 35 
+SP node: 41, label cost 9.837, time 13342446756804858106355908608.000, node_pred_id 35 
+SP iteration k = 0: origin node: 37, agent type 0 
+SP: SE node: 37
+SP: checking from node 37, to node 31  cost = 1.923794
+SP: updating node: 31 current cost: 999999986991104.00, new cost 1.92
+SP: add node 31 into SE List
+SP: SE node: 31
+SP: checking from node 31, to node 32  cost = 3.423794
+SP: updating node: 32 current cost: 999999986991104.00, new cost 3.42
+SP: add node 32 into SE List
+SP: checking from node 31, to node 36  cost = 3.869908
+SP: updating node: 36 current cost: 999999986991104.00, new cost 3.87
+SP: add node 36 into SE List
+SP: checking from node 31, to node 37  cost = 4.252587
+SP: checking from node 31, to node 30  cost = 3.816341
+SP: updating node: 30 current cost: 999999986991104.00, new cost 3.82
+SP: add node 30 into SE List
+SP: SE node: 32
+SP: checking from node 32, to node 33  cost = 4.923794
+SP: updating node: 33 current cost: 999999986991104.00, new cost 4.92
+SP: add node 33 into SE List
+SP: checking from node 32, to node 31  cost = 5.180111
+SP: SE node: 36
+SP: checking from node 36, to node 31  cost = 8.274908
+SP: SE node: 30
+SP: checking from node 30, to node 31  cost = 5.321342
+SP: checking from node 30, to node 1  cost = 5.762594
+SP: updating node: 1 current cost: 999999986991104.00, new cost 5.76
+SP: add node 1 into SE List
+SP: SE node: 33
+SP: checking from node 33, to node 35  cost = 6.423794
+SP: updating node: 35 current cost: 999999986991104.00, new cost 6.42
+SP: add node 35 into SE List
+SP: checking from node 33, to node 38  cost = 7.215462
+SP: updating node: 38 current cost: 999999986991104.00, new cost 7.22
+SP: add node 38 into SE List
+SP: checking from node 33, to node 39  cost = 7.139963
+SP: updating node: 39 current cost: 999999986991104.00, new cost 7.14
+SP: add node 39 into SE List
+SP: checking from node 33, to node 32  cost = 6.420886
+SP: SE node: 1
+SP: checking from node 1, to node 3  cost = 6.762594
+SP: updating node: 3 current cost: 999999986991104.00, new cost 6.76
+SP: add node 3 into SE List
+SP: checking from node 1, to node 14  cost = 6.762594
+SP: updating node: 14 current cost: 999999986991104.00, new cost 6.76
+SP: add node 14 into SE List
+SP: checking from node 1, to node 30  cost = 7.262594
+SP: SE node: 35
+SP: checking from node 35, to node 34  cost = 7.923794
+SP: updating node: 34 current cost: 999999986991104.00, new cost 7.92
+SP: add node 34 into SE List
+SP: checking from node 35, to node 40  cost = 8.098514
+SP: updating node: 40 current cost: 999999986991104.00, new cost 8.10
+SP: add node 40 into SE List
+SP: checking from node 35, to node 41  cost = 8.755865
+SP: updating node: 41 current cost: 999999986991104.00, new cost 8.76
+SP: add node 41 into SE List
+SP: checking from node 35, to node 33  cost = 8.273973
+SP: SE node: 38
+SP: checking from node 38, to node 33  cost = 9.507130
+SP: SE node: 39
+SP: checking from node 39, to node 33  cost = 9.356133
+SP: SE node: 3
+SP: checking from node 3, to node 4  cost = 7.762594
+SP: updating node: 4 current cost: 999999986991104.00, new cost 7.76
+SP: add node 4 into SE List
+SP: SE node: 14
+SP: checking from node 14, to node 15  cost = 7.762594
+SP: updating node: 15 current cost: 999999986991104.00, new cost 7.76
+SP: add node 15 into SE List
+SP: SE node: 34
+SP: checking from node 34, to node 2  cost = 10.923794
+SP: updating node: 2 current cost: 999999986991104.00, new cost 10.92
+SP: add node 2 into SE List
+SP: checking from node 34, to node 35  cost = 9.689234
+SP: SE node: 40
+SP: checking from node 40, to node 35  cost = 9.773233
+SP: SE node: 41
+SP: checking from node 41, to node 35  cost = 11.087936
+SP: SE node: 4
+SP: checking from node 4, to node 5  cost = 8.762594
+SP: updating node: 5 current cost: 999999986991104.00, new cost 8.76
+SP: add node 5 into SE List
+SP: checking from node 4, to node 36  cost = 11.762594
+SP: SE node: 15
+SP: checking from node 15, to node 16  cost = 8.762594
+SP: updating node: 16 current cost: 999999986991104.00, new cost 8.76
+SP: add node 16 into SE List
+SP: SE node: 2
+SP: checking from node 2, to node 34  cost = 13.268298
+SP: SE node: 5
+SP: checking from node 5, to node 6  cost = 9.762594
+SP: updating node: 6 current cost: 999999986991104.00, new cost 9.76
+SP: add node 6 into SE List
+SP: SE node: 16
+SP: checking from node 16, to node 17  cost = 9.762594
+SP: updating node: 17 current cost: 999999986991104.00, new cost 9.76
+SP: add node 17 into SE List
+SP: SE node: 6
+SP: checking from node 6, to node 7  cost = 10.762594
+SP: updating node: 7 current cost: 999999986991104.00, new cost 10.76
+SP: add node 7 into SE List
+SP: SE node: 17
+SP: checking from node 17, to node 18  cost = 10.762594
+SP: updating node: 18 current cost: 999999986991104.00, new cost 10.76
+SP: add node 18 into SE List
+SP: SE node: 7
+SP: checking from node 7, to node 8  cost = 11.762594
+SP: updating node: 8 current cost: 999999986991104.00, new cost 11.76
+SP: add node 8 into SE List
+SP: SE node: 18
+SP: checking from node 18, to node 19  cost = 11.762594
+SP: updating node: 19 current cost: 999999986991104.00, new cost 11.76
+SP: add node 19 into SE List
+SP: SE node: 8
+SP: checking from node 8, to node 9  cost = 12.762594
+SP: updating node: 9 current cost: 999999986991104.00, new cost 12.76
+SP: add node 9 into SE List
+SP: SE node: 19
+SP: checking from node 19, to node 20  cost = 12.762594
+SP: updating node: 20 current cost: 999999986991104.00, new cost 12.76
+SP: add node 20 into SE List
+SP: SE node: 9
+SP: checking from node 9, to node 10  cost = 13.762594
+SP: updating node: 10 current cost: 999999986991104.00, new cost 13.76
+SP: add node 10 into SE List
+SP: SE node: 20
+SP: checking from node 20, to node 21  cost = 13.762594
+SP: updating node: 21 current cost: 999999986991104.00, new cost 13.76
+SP: add node 21 into SE List
+SP: SE node: 10
+SP: checking from node 10, to node 11  cost = 14.762594
+SP: updating node: 11 current cost: 999999986991104.00, new cost 14.76
+SP: add node 11 into SE List
+SP: SE node: 21
+SP: checking from node 21, to node 22  cost = 14.762594
+SP: updating node: 22 current cost: 999999986991104.00, new cost 14.76
+SP: add node 22 into SE List
+SP: SE node: 11
+SP: checking from node 11, to node 12  cost = 15.762594
+SP: updating node: 12 current cost: 999999986991104.00, new cost 15.76
+SP: add node 12 into SE List
+SP: SE node: 22
+SP: checking from node 22, to node 23  cost = 15.762594
+SP: updating node: 23 current cost: 999999986991104.00, new cost 15.76
+SP: add node 23 into SE List
+SP: SE node: 12
+SP: checking from node 12, to node 2  cost = 16.762594
+SP: SE node: 23
+SP: checking from node 23, to node 24  cost = 16.762594
+SP: updating node: 24 current cost: 999999986991104.00, new cost 16.76
+SP: add node 24 into SE List
+SP: SE node: 24
+SP: checking from node 24, to node 25  cost = 17.762594
+SP: updating node: 25 current cost: 999999986991104.00, new cost 17.76
+SP: add node 25 into SE List
+SP: SE node: 25
+SP: checking from node 25, to node 26  cost = 18.762594
+SP: updating node: 26 current cost: 999999986991104.00, new cost 18.76
+SP: add node 26 into SE List
+SP: SE node: 26
+SP: checking from node 26, to node 27  cost = 19.762594
+SP: updating node: 27 current cost: 999999986991104.00, new cost 19.76
+SP: add node 27 into SE List
+SP: SE node: 27
+SP: checking from node 27, to node 28  cost = 20.762594
+SP: updating node: 28 current cost: 999999986991104.00, new cost 20.76
+SP: add node 28 into SE List
+SP: SE node: 28
+SP: checking from node 28, to node 29  cost = 21.762594
+SP: updating node: 29 current cost: 999999986991104.00, new cost 21.76
+SP: add node 29 into SE List
+SP: SE node: 29
+SP: checking from node 29, to node 2  cost = 22.762594
+SPtree at iteration k = 0: origin node: 37, agent type 0 
+SP node: 1, label cost 5.763, time 0.000, node_pred_id 30 
+SP node: 2, label cost 10.924, time 0.000, node_pred_id 34 
+SP node: 3, label cost 6.763, time 0.000, node_pred_id 1 
+SP node: 4, label cost 7.763, time 0.000, node_pred_id 3 
+SP node: 5, label cost 8.763, time 17219861078322305826816.000, node_pred_id 4 
+SP node: 6, label cost 9.763, time 17254464450874834944.000, node_pred_id 5 
+SP node: 7, label cost 10.763, time 67422192063862815064064.000, node_pred_id 6 
+SP node: 8, label cost 11.763, time 0.000, node_pred_id 7 
+SP node: 9, label cost 12.763, time 70071632703047113637888.000, node_pred_id 8 
+SP node: 10, label cost 13.763, time 18063579521430853625239830528.000, node_pred_id 9 
+SP node: 11, label cost 14.763, time 0.000, node_pred_id 10 
+SP node: 12, label cost 15.763, time 70071632703047113637888.000, node_pred_id 11 
+SP node: 14, label cost 6.763, time 75555653809516067877004637110272.000, node_pred_id 1 
+SP node: 15, label cost 7.763, time 284133877301595078656.000, node_pred_id 14 
+SP node: 16, label cost 8.763, time 4836354889475288983949870628864.000, node_pred_id 15 
+SP node: 17, label cost 9.763, time 1109612165083615395877748736.000, node_pred_id 16 
+SP node: 18, label cost 10.763, time 4515668206766535663339700224.000, node_pred_id 17 
+SP node: 19, label cost 11.763, time 67403704787392459177984.000, node_pred_id 18 
+SP node: 20, label cost 12.763, time 0.000, node_pred_id 19 
+SP node: 21, label cost 13.763, time 277139751895916609536.000, node_pred_id 20 
+SP node: 22, label cost 14.763, time 79316120629935642432836082910363648.000, node_pred_id 21 
+SP node: 23, label cost 15.763, time 4600385361062408486912.000, node_pred_id 22 
+SP node: 24, label cost 16.763, time 17284442178380294448488644608.000, node_pred_id 23 
+SP node: 25, label cost 17.763, time 73722037952250351782284326823002112.000, node_pred_id 24 
+SP node: 26, label cost 18.763, time 16531697183821398016.000, node_pred_id 25 
+SP node: 27, label cost 19.763, time 1125794126294576321789952.000, node_pred_id 26 
+SP node: 28, label cost 20.763, time 814173855118153169764352.000, node_pred_id 27 
+SP node: 29, label cost 21.763, time 17748676776662036356043636736.000, node_pred_id 28 
+SP node: 30, label cost 3.816, time 4515668206766535663339700224.000, node_pred_id 31 
+SP node: 31, label cost 1.924, time 71476976463168449544192.000, node_pred_id 37 
+SP node: 32, label cost 3.424, time 18464273092265594117423104.000, node_pred_id 31 
+SP node: 33, label cost 4.924, time 3334627370937441384914747392.000, node_pred_id 32 
+SP node: 34, label cost 7.924, time 17179368906209361920.000, node_pred_id 35 
+SP node: 35, label cost 6.424, time 67422192063862815064064.000, node_pred_id 33 
+SP node: 36, label cost 3.870, time 0.000, node_pred_id 31 
+SP node: 37, label cost 0.000, time 0.000, node_pred_id -1 
+SP node: 38, label cost 7.215, time 73401617022736594805626765312.000, node_pred_id 33 
+SP node: 39, label cost 7.140, time 70067030024227940990976.000, node_pred_id 33 
+SP node: 40, label cost 8.099, time 17703913483660380920541593206784.000, node_pred_id 35 
+SP node: 41, label cost 8.756, time 13342446756804858106355908608.000, node_pred_id 35 
+SP iteration k = 0: origin node: 36, agent type 0 
+SP: SE node: 36
+SP: checking from node 36, to node 31  cost = 4.405000
+SP: updating node: 31 current cost: 999999986991104.00, new cost 4.41
+SP: add node 31 into SE List
+SP: SE node: 31
+SP: checking from node 31, to node 32  cost = 5.905000
+SP: updating node: 32 current cost: 999999986991104.00, new cost 5.91
+SP: add node 32 into SE List
+SP: checking from node 31, to node 36  cost = 6.351114
+SP: checking from node 31, to node 37  cost = 6.733794
+SP: updating node: 37 current cost: 999999986991104.00, new cost 6.73
+SP: add node 37 into SE List
+SP: checking from node 31, to node 30  cost = 6.297548
+SP: updating node: 30 current cost: 999999986991104.00, new cost 6.30
+SP: add node 30 into SE List
+SP: SE node: 32
+SP: checking from node 32, to node 33  cost = 7.405000
+SP: updating node: 33 current cost: 999999986991104.00, new cost 7.41
+SP: add node 33 into SE List
+SP: checking from node 32, to node 31  cost = 7.661317
+SP: SE node: 37
+SP: checking from node 37, to node 31  cost = 8.657588
+SP: SE node: 30
+SP: checking from node 30, to node 31  cost = 7.802548
+SP: checking from node 30, to node 1  cost = 8.243800
+SP: updating node: 1 current cost: 999999986991104.00, new cost 8.24
+SP: add node 1 into SE List
+SP: SE node: 33
+SP: checking from node 33, to node 35  cost = 8.905001
+SP: updating node: 35 current cost: 999999986991104.00, new cost 8.91
+SP: add node 35 into SE List
+SP: checking from node 33, to node 38  cost = 9.696668
+SP: updating node: 38 current cost: 999999986991104.00, new cost 9.70
+SP: add node 38 into SE List
+SP: checking from node 33, to node 39  cost = 9.621170
+SP: updating node: 39 current cost: 999999986991104.00, new cost 9.62
+SP: add node 39 into SE List
+SP: checking from node 33, to node 32  cost = 8.902092
+SP: SE node: 1
+SP: checking from node 1, to node 3  cost = 9.243800
+SP: updating node: 3 current cost: 999999986991104.00, new cost 9.24
+SP: add node 3 into SE List
+SP: checking from node 1, to node 14  cost = 9.243800
+SP: updating node: 14 current cost: 999999986991104.00, new cost 9.24
+SP: add node 14 into SE List
+SP: checking from node 1, to node 30  cost = 9.743800
+SP: SE node: 35
+SP: checking from node 35, to node 34  cost = 10.405001
+SP: updating node: 34 current cost: 999999986991104.00, new cost 10.41
+SP: add node 34 into SE List
+SP: checking from node 35, to node 40  cost = 10.579720
+SP: updating node: 40 current cost: 999999986991104.00, new cost 10.58
+SP: add node 40 into SE List
+SP: checking from node 35, to node 41  cost = 11.237072
+SP: updating node: 41 current cost: 999999986991104.00, new cost 11.24
+SP: add node 41 into SE List
+SP: checking from node 35, to node 33  cost = 10.755179
+SP: SE node: 38
+SP: checking from node 38, to node 33  cost = 11.988336
+SP: SE node: 39
+SP: checking from node 39, to node 33  cost = 11.837339
+SP: SE node: 3
+SP: checking from node 3, to node 4  cost = 10.243800
+SP: updating node: 4 current cost: 999999986991104.00, new cost 10.24
+SP: add node 4 into SE List
+SP: SE node: 14
+SP: checking from node 14, to node 15  cost = 10.243800
+SP: updating node: 15 current cost: 999999986991104.00, new cost 10.24
+SP: add node 15 into SE List
+SP: SE node: 34
+SP: checking from node 34, to node 2  cost = 13.405001
+SP: updating node: 2 current cost: 999999986991104.00, new cost 13.41
+SP: add node 2 into SE List
+SP: checking from node 34, to node 35  cost = 12.170441
+SP: SE node: 40
+SP: checking from node 40, to node 35  cost = 12.254440
+SP: SE node: 41
+SP: checking from node 41, to node 35  cost = 13.569143
+SP: SE node: 4
+SP: checking from node 4, to node 5  cost = 11.243800
+SP: updating node: 5 current cost: 999999986991104.00, new cost 11.24
+SP: add node 5 into SE List
+SP: checking from node 4, to node 36  cost = 14.243800
+SP: SE node: 15
+SP: checking from node 15, to node 16  cost = 11.243800
+SP: updating node: 16 current cost: 999999986991104.00, new cost 11.24
+SP: add node 16 into SE List
+SP: SE node: 2
+SP: checking from node 2, to node 34  cost = 15.749505
+SP: SE node: 5
+SP: checking from node 5, to node 6  cost = 12.243800
+SP: updating node: 6 current cost: 999999986991104.00, new cost 12.24
+SP: add node 6 into SE List
+SP: SE node: 16
+SP: checking from node 16, to node 17  cost = 12.243800
+SP: updating node: 17 current cost: 999999986991104.00, new cost 12.24
+SP: add node 17 into SE List
+SP: SE node: 6
+SP: checking from node 6, to node 7  cost = 13.243800
+SP: updating node: 7 current cost: 999999986991104.00, new cost 13.24
+SP: add node 7 into SE List
+SP: SE node: 17
+SP: checking from node 17, to node 18  cost = 13.243800
+SP: updating node: 18 current cost: 999999986991104.00, new cost 13.24
+SP: add node 18 into SE List
+SP: SE node: 7
+SP: checking from node 7, to node 8  cost = 14.243800
+SP: updating node: 8 current cost: 999999986991104.00, new cost 14.24
+SP: add node 8 into SE List
+SP: SE node: 18
+SP: checking from node 18, to node 19  cost = 14.243800
+SP: updating node: 19 current cost: 999999986991104.00, new cost 14.24
+SP: add node 19 into SE List
+SP: SE node: 8
+SP: checking from node 8, to node 9  cost = 15.243800
+SP: updating node: 9 current cost: 999999986991104.00, new cost 15.24
+SP: add node 9 into SE List
+SP: SE node: 19
+SP: checking from node 19, to node 20  cost = 15.243800
+SP: updating node: 20 current cost: 999999986991104.00, new cost 15.24
+SP: add node 20 into SE List
+SP: SE node: 9
+SP: checking from node 9, to node 10  cost = 16.243801
+SP: updating node: 10 current cost: 999999986991104.00, new cost 16.24
+SP: add node 10 into SE List
+SP: SE node: 20
+SP: checking from node 20, to node 21  cost = 16.243801
+SP: updating node: 21 current cost: 999999986991104.00, new cost 16.24
+SP: add node 21 into SE List
+SP: SE node: 10
+SP: checking from node 10, to node 11  cost = 17.243801
+SP: updating node: 11 current cost: 999999986991104.00, new cost 17.24
+SP: add node 11 into SE List
+SP: SE node: 21
+SP: checking from node 21, to node 22  cost = 17.243801
+SP: updating node: 22 current cost: 999999986991104.00, new cost 17.24
+SP: add node 22 into SE List
+SP: SE node: 11
+SP: checking from node 11, to node 12  cost = 18.243801
+SP: updating node: 12 current cost: 999999986991104.00, new cost 18.24
+SP: add node 12 into SE List
+SP: SE node: 22
+SP: checking from node 22, to node 23  cost = 18.243801
+SP: updating node: 23 current cost: 999999986991104.00, new cost 18.24
+SP: add node 23 into SE List
+SP: SE node: 12
+SP: checking from node 12, to node 2  cost = 19.243801
+SP: SE node: 23
+SP: checking from node 23, to node 24  cost = 19.243801
+SP: updating node: 24 current cost: 999999986991104.00, new cost 19.24
+SP: add node 24 into SE List
+SP: SE node: 24
+SP: checking from node 24, to node 25  cost = 20.243801
+SP: updating node: 25 current cost: 999999986991104.00, new cost 20.24
+SP: add node 25 into SE List
+SP: SE node: 25
+SP: checking from node 25, to node 26  cost = 21.243801
+SP: updating node: 26 current cost: 999999986991104.00, new cost 21.24
+SP: add node 26 into SE List
+SP: SE node: 26
+SP: checking from node 26, to node 27  cost = 22.243801
+SP: updating node: 27 current cost: 999999986991104.00, new cost 22.24
+SP: add node 27 into SE List
+SP: SE node: 27
+SP: checking from node 27, to node 28  cost = 23.243801
+SP: updating node: 28 current cost: 999999986991104.00, new cost 23.24
+SP: add node 28 into SE List
+SP: SE node: 28
+SP: checking from node 28, to node 29  cost = 24.243801
+SP: updating node: 29 current cost: 999999986991104.00, new cost 24.24
+SP: add node 29 into SE List
+SP: SE node: 29
+SP: checking from node 29, to node 2  cost = 25.243801
+SPtree at iteration k = 0: origin node: 36, agent type 0 
+SP node: 1, label cost 8.244, time 0.000, node_pred_id 30 
+SP node: 2, label cost 13.405, time 0.000, node_pred_id 34 
+SP node: 3, label cost 9.244, time 0.000, node_pred_id 1 
+SP node: 4, label cost 10.244, time 0.000, node_pred_id 3 
+SP node: 5, label cost 11.244, time 0.000, node_pred_id 4 
+SP node: 6, label cost 12.244, time 0.000, node_pred_id 5 
+SP node: 7, label cost 13.244, time 0.000, node_pred_id 6 
+SP node: 8, label cost 14.244, time 0.000, node_pred_id 7 
+SP node: 9, label cost 15.244, time 0.000, node_pred_id 8 
+SP node: 10, label cost 16.244, time 0.000, node_pred_id 9 
+SP node: 11, label cost 17.244, time 0.000, node_pred_id 10 
+SP node: 12, label cost 18.244, time 0.000, node_pred_id 11 
+SP node: 14, label cost 9.244, time 0.000, node_pred_id 1 
+SP node: 15, label cost 10.244, time 0.000, node_pred_id 14 
+SP node: 16, label cost 11.244, time -nan, node_pred_id 15 
+SP node: 17, label cost 12.244, time 0.000, node_pred_id 16 
+SP node: 18, label cost 13.244, time -107374176.000, node_pred_id 17 
+SP node: 19, label cost 14.244, time -107374176.000, node_pred_id 18 
+SP node: 20, label cost 15.244, time -107374176.000, node_pred_id 19 
+SP node: 21, label cost 16.244, time -107374176.000, node_pred_id 20 
+SP node: 22, label cost 17.244, time 0.000, node_pred_id 21 
+SP node: 23, label cost 18.244, time 0.000, node_pred_id 22 
+SP node: 24, label cost 19.244, time 0.000, node_pred_id 23 
+SP node: 25, label cost 20.244, time 0.000, node_pred_id 24 
+SP node: 26, label cost 21.244, time 0.000, node_pred_id 25 
+SP node: 27, label cost 22.244, time 0.000, node_pred_id 26 
+SP node: 28, label cost 23.244, time 0.000, node_pred_id 27 
+SP node: 29, label cost 24.244, time 0.000, node_pred_id 28 
+SP node: 30, label cost 6.298, time 0.000, node_pred_id 31 
+SP node: 31, label cost 4.405, time 0.000, node_pred_id 36 
+SP node: 32, label cost 5.905, time 0.000, node_pred_id 31 
+SP node: 33, label cost 7.405, time 0.000, node_pred_id 32 
+SP node: 34, label cost 10.405, time 0.000, node_pred_id 35 
+SP node: 35, label cost 8.905, time 0.000, node_pred_id 33 
+SP node: 36, label cost 0.000, time 0.000, node_pred_id -1 
+SP node: 37, label cost 6.734, time 0.000, node_pred_id 31 
+SP node: 38, label cost 9.697, time 0.000, node_pred_id 33 
+SP node: 39, label cost 9.621, time 0.000, node_pred_id 33 
+SP node: 40, label cost 10.580, time 0.000, node_pred_id 35 
+SP node: 41, label cost 11.237, time 0.000, node_pred_id 35 

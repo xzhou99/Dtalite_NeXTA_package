@@ -1,0 +1,5 @@
+link_id,from_node_id,to_node_id,time_window,time_interval,travel_time_delta,capacity,cycle_no,cycle_length,green_time,red_time,main_node_id,stage,movement_str,notes,
+30,30,31,0000:00_0000:54,-1,-1,27.000000,0,60,54.000000,6.000000,1,1,EBT,2;0
+53,32,31,0000:00_0000:54,-1,-1,27.000000,0,60,54.000000,6.000000,1,1,WBT,5;0
+38,31,37,0000:54_0001:00,-1,-1,3.000000,0,60,6.000000,54.000000,1,2,NBT,8;0
+36,36,31,0000:54_0001:00,-1,-1,3.000000,0,60,6.000000,54.000000,1,2,SBT,11;0
